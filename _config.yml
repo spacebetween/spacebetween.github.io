@@ -1,12 +1,12 @@
 # Site settings
-title: Hello from Thnkr
-name: Thnkr
-email: hello@thnkr.co.uk
+title: Hello from Space Between
+name: Space Between
+email: hello@spacebetween.io
 phone: 01233 800991
 description: > # this means to ignore newlines until "baseurl:"
   Work with us to solve solutions for real people. Generating measurable value through innovative design and development.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://thnkr.co.uk" # the base hostname & protocol for your site
+url: "http://spacebetween.io" # the base hostname & protocol for your site
 twitter_username: teamThnkr
 github_username:  team-thnkr
 
