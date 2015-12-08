@@ -1,16 +1,16 @@
 ---
 layout: 		post
-title:  		"Hello From Thnkr!"
+title:  		"Hello From Space Between!"
 date:   		2015-11-23
 author: 		"Luke Frake"
 authorPhoto:	"57a043075d8faed58073da501b422798"
-categories: 	thnkr
+categories: 	space between
 banner:			"http://www.gratisography.com/pictures/213_1.jpg"
 ---
 
 We're a group of web enthusiasts based in Ashford, Kent, England. We are happiest when we are helping people interact better with websites, and pushing the web to its extreme.
 
-We decided we wanted to use our passions to help as many as possible. With that in mind, we started Thnkr.
+We decided we wanted to use our passions to help as many as possible. With that in mind, we started Space Between.
 
 Our mission, a simple one, is to put people first! We define people as our clients, their users and our team.
 
@@ -23,4 +23,4 @@ This means;
 We hope to work with as many people as possible, and together, make a true impact for your users.
 
 With love,<br/>
-Thnkr Team
+Space Between Team
