@@ -12,8 +12,8 @@
     xRange: 0.8,
     yRange: 0.1,
     zRange: 1.0,
-    ambient: '#696969',
-    diffuse: '#7ba4d2',
+    ambient: '#555555',
+    diffuse: '#ffffff',
     speed: 0.0005
   };
 
@@ -24,8 +24,8 @@
     count: 2,
     xyScalar: 1,
     zOffset: 50,
-    ambient: '#ffffff',
-    diffuse: '#ffffff',
+    ambient: '#000000',
+    diffuse: '#646363',
     speed: 0.0001,
     gravity: 1200,
     dampening: 0.95,
@@ -34,7 +34,7 @@
     minDistance: 20,
     maxDistance: 400,
     autopilot: false,
-    draw: true,
+    draw: false,
     bounds: FSS.Vector3.create(),
     step: FSS.Vector3.create(
       Math.randomInRange(0.2, 1.0)

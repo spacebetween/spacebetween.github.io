@@ -3,14 +3,17 @@
 ---
 @charset "utf-8";
 
-$body-font-family: 'Lato';
-$header-font-family: 'Abril Fatface';
+$body-font-family: 'Merriweather';
+$header-font-family: 'Lato';
 $white: #FAFAFA;
 $black: #0a0a0a;
+$body-background: $black;
+$body-font-color: $white;
+
 $primary-color: #FFAB00;
 $grey: rgba(0,0,0,0.44);
 
-$anchor-color: $black;
+$anchor-color: $white;
 $anchor-text-decoration-hover: underline;
 $topbar-background: transparent;
 
@@ -22,7 +25,7 @@ $topbar-background: transparent;
 @import "includes";
 
 a.link {
-	border-bottom: 5px solid $primary-color;
+	border-bottom: 3px solid $primary-color;
 	&:hover {
 		text-decoration: none;
 	}
