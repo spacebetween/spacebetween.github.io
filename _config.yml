@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Work with us to solve solutions for real people. Generating measurable value through innovative design and development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spacebetween.io" # the base hostname & protocol for your site
-twitter_username: teamThnkr
-github_username:  team-thnkr
+twitter_username: Space__Between
+github_username:  spacebetween
 
 # Build settings
 markdown: kramdown
