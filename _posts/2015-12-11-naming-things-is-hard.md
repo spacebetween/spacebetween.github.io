@@ -20,7 +20,7 @@ Firstly a quick brainstorming session with everybody in the team, where we chatt
 
 After we all had an idea of the ‘ground rules’, we opened up a Google Doc and spent half an hour throwing names in.
 
-![Screenshot of spreadsheet which shows some of the options while renaming](http://tinypic.com/r/hun05c/9)
+![Screenshot of spreadsheet which shows some of the options while renaming](http://i.imgsafe.org/43b22dc.png)
 
 Naming an agency is a bit like naming a baby, everybody has an opinion, but nobody wants to tell you until it’s too late. We had to find a group of trusted friends and family to poll on if we had made the right opinion.
 
