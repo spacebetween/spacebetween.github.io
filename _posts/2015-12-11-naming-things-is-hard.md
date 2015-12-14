@@ -12,7 +12,7 @@ It's a well-known fact, and it only makes it harder when it's your brand. So I t
 
 We’ve gone through a couple of names, we started as Granary Web Development, which was around for a short time.
 
-Then Thnkr came along, we all fell in love, unfortunatly after some time it was decided that Thnkr wouldn't work for us, so we decided to rebrand again.
+Then Thnkr came along, we all fell in love, unfortunately after some time it was decided that Thnkr wouldn't work for us, so we decided to rebrand again.
 
 We're a small agency with a lot of work on, so we didn't want to spend loads of time renaming ourselves, which we could well have done. In the same vein we didn't want to go through this process again, so it was important to get it done quickly, but also get something we where really happy with.
 
@@ -24,7 +24,7 @@ After we all had an idea of the ‘ground rules’, we opened up a Google Doc an
 
 Naming an agency is a bit like naming a baby, everybody has an opinion, but nobody wants to tell you until it’s too late. We had to find a group of trusted friends and family to poll on if we had made the right opinion.
 
-We decided that our new name gave us the option to diversify in other markets, while also was the only name we acutally all agreed on. And best of all... nobody hated it, which is all you can really ask for when naming something.
+We decided that our new name gave us the option to diversify into other markets, while also was the only name we actually all agreed on. Best of all... nobody hated it, which is all you can really ask for when naming something.
 
 Long story short, we are now Space Between.
 
