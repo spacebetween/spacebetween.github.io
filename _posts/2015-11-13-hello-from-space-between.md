@@ -10,7 +10,7 @@ banner:			"http://www.gratisography.com/pictures/213_1.jpg"
 
 We're a group of web enthusiasts based in Ashford, Kent, England. We are happiest when we are helping people interact better with websites, and pushing the web to its extreme.
 
-We decided we wanted to use our passions to help as many as possible. With that in mind, we started Space Between.
+We decided we wanted to use our passions to help as many people as possible. With that in mind, we started Space Between.
 
 Our mission, a simple one, is to put people first! We define people as our clients, their users and our team.
 
