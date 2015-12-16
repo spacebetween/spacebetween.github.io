@@ -14,3 +14,6 @@ permalink: /404.html
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
