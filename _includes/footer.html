@@ -5,18 +5,18 @@
 			<li><a href="http://twitter.com/{{ site.twitter_username }}" data-category="footer" data-action="twitterClick"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
 		</ul>
 		<div class="columns small-12" itemscope itemtype=”http://schema.org/LocalBusiness”>
-			<a itemprop=”url” href=”http://spacebetween.io”>
-				<div itemprop=”name”>Space Between</div>
+			<a itemprop="url" href="http://spacebetween.io">
+				<div itemprop="name">{{site.name}}</div>
 			</a>
-			<div itemscope itemtype=”http://schema.org/Organization”>
-				<span itemprop=”telephone”>01233 800991</span>
-			</div>
-			<div itemprop=”address” itemscope itemtype=”http://schema.org/PostalAddress”>
-				<span itemprop=”streetAddress”>Wellington House, Church Road </span><br>
-				<span itemprop=”addressLocality”>Ashford </span>
-				<span itemprop=”addressRegion”>Kent </span>
-				<span itemprop=”postalCode”>TN23 1RQ </span><br>
-				<span itemprop=”addressCountry”>UK</span><br>
+			<a href="tel:{{site.phone}}" itemscope itemtype="http://schema.org/Organization">
+				<span itemprop="telephone">{{site.phone}}</span>
+			</a>
+			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Wellington House, Church Road</span><br>
+				<span itemprop="addressLocality">Ashford</span>,
+				<span itemprop="addressRegion">Kent</span>,
+				<span itemprop="postalCode">TN23 1RQ</span>,
+				<span itemprop="addressCountry">UK</span><br>
 			</div>
 		</div>
 	</div>
