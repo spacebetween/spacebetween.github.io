@@ -8,20 +8,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KDKL7V');</script>
 <!-- End Google Tag Manager -->
 
-<div class="row">
-	<div class="column">
-		<div class="top-bar-left">
-			<ul class="menu horizontal text-center">
-				<li><h3><a href="/" class="link">{{ site.name | upcase }}</a></h3></li>
-				<li><a href="/blog" {% if {{page.name}} == "blog" %}class="selected" {% endif %}>Blog</a></li>
-				<li><a href="/team" {% if {{page.name}} == "team" %}class="selected" {% endif %}>Team</a></li>
-			</ul>
-		</div>
-		<div class="top-bar-right">
-			<ul class="menu vertical text-right">
-				<li><a href="tel:{{site.phone}}" data-category="topBar" data-action="phoneClick">{{site.phone}}<i class="fa fa-phone fa-fw"></i></a></li>
-				<li><a href="mailto:{{site.email}}" target="_top"data-category="topBar" data-action="emailClick">{{site.email}}<i class="fa fa-envelope fa-fw"></i></a></li>
-			</ul>
+<div class="menuOuter">
+	<div class="row">
+		<div class="column">
+			<div class="top-bar-left">
+				<ul class="menu horizontal text-center">
+					<li><h3><a href="/" class="logo">{{ site.name | upcase }}</a></h3></li>
+					<li><a href="/blog" {% if {{page.name}} == "blog" %}class="selected" {% endif %}>Blog</a></li>
+					<li><a href="/team" {% if {{page.name}} == "team" %}class="selected" {% endif %}>Team</a></li>
+				</ul>
+			</div>
+			<div class="top-bar-right">
+				<ul class="menu vertical text-right">
+					<li><a href="tel:{{site.phone}}" data-category="topBar" data-action="phoneClick">{{site.phone}}<i class="fa fa-phone fa-fw"></i></a></li>
+					<li><a href="mailto:{{site.email}}" target="_top"data-category="topBar" data-action="emailClick">{{site.email}}<i class="fa fa-envelope fa-fw"></i></a></li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </div>
