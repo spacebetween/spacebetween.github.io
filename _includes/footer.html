@@ -4,20 +4,26 @@
 			<li><a href="https://github.com/{{ site.github_username }}/" data-category="footer" data-action="githubClick"><i class="fa fa-github fa-fw"></i> Github</a></li>
 			<li><a href="http://twitter.com/{{ site.twitter_username }}" data-category="footer" data-action="twitterClick"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
 		</ul>
-		<div class="columns small-12" itemscope itemtype=”http://schema.org/LocalBusiness”>
-			<a itemprop="url" href="http://spacebetween.io">
-				<div itemprop="name">{{site.name}}</div>
-			</a>
-			<a href="tel:{{site.phone}}" itemscope itemtype="http://schema.org/Organization">
-				<span itemprop="telephone">{{site.phone}}</span>
-			</a>
-			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<div class="columns small-12" itemscope="" itemtype="http://schema.org/LocalBusiness">
+			<div>&copy;<span itemprop="name">{{site.name}}</span></div>
+            <link itemprop="url" href="http://spacebetween.io/">
+            <link itemprop="sameAs" href="https://plus.google.com/+SpacebetweenIo/about">
+            <link itemprop="hasMap" href="https://goo.gl/maps/pjjfVbpkJin">
+			<div itemscope itemtype="http://schema.org/Organization">
+				<a href="tel:{{site.phone}}" itemprop="telephone">{{site.phone}}</a><br>
+				<a href="mailto:{{site.email}}" itemprop="email">{{site.email}}</a>
+			</div>
+			<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
 				<span itemprop="streetAddress">Wellington House, Church Road</span><br>
 				<span itemprop="addressLocality">Ashford</span>,
 				<span itemprop="addressRegion">Kent</span>,
 				<span itemprop="postalCode">TN23 1RQ</span>,
 				<span itemprop="addressCountry">UK</span><br>
 			</div>
+			<span itemprop="geo" itemscope="" itemtype="https://schema.org/GeoCoordinates">
+                <meta itemprop="latitude" content="51.146524">
+                <meta itemprop="longitude" content="0.8701825">
+            </span>
 		</div>
 	</div>
 </section>
