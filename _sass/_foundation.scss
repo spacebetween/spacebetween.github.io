@@ -6,46 +6,46 @@
 @import 'vendor/normalize';
 
 // Sass utilities
-@import 'util/util';
+@import 'vendor/util/util';
 
 // Global variables and styles
-@import 'global';
+@import 'vendor/global';
 
 // Components
-@import 'grid/grid';
-@import 'typography/typography';
-@import 'forms/forms';
-@import 'components/visibility';
-@import 'components/float';
-@import 'components/button';
-@import 'components/button-group';
-@import 'components/accordion-menu';
-@import 'components/accordion';
-@import 'components/badge';
-@import 'components/breadcrumbs';
-@import 'components/callout';
-@import 'components/close-button';
-@import 'components/drilldown';
-@import 'components/dropdown-menu';
-@import 'components/dropdown';
-@import 'components/flex-video';
-@import 'components/label';
-@import 'components/media-object';
-@import 'components/menu';
-@import 'components/off-canvas';
-@import 'components/orbit';
-@import 'components/pagination';
-@import 'components/progress-bar';
-@import 'components/reveal';
-@import 'components/slider';
-@import 'components/sticky';
-@import 'components/switch';
-@import 'components/table';
-@import 'components/tabs';
-@import 'components/title-bar';
-@import 'components/top-bar';
-@import 'components/thumbnail';
-@import 'components/tooltip';
+@import 'vendor/grid/grid';
+@import 'vendor/typography/typography';
+@import 'vendor/forms/forms';
+@import 'vendor/components/visibility';
+@import 'vendor/components/float';
+@import 'vendor/components/button';
+@import 'vendor/components/button-group';
+@import 'vendor/components/accordion-menu';
+@import 'vendor/components/accordion';
+@import 'vendor/components/badge';
+@import 'vendor/components/breadcrumbs';
+@import 'vendor/components/callout';
+@import 'vendor/components/close-button';
+@import 'vendor/components/drilldown';
+@import 'vendor/components/dropdown-menu';
+@import 'vendor/components/dropdown';
+@import 'vendor/components/flex-video';
+@import 'vendor/components/label';
+@import 'vendor/components/media-object';
+@import 'vendor/components/menu';
+@import 'vendor/components/off-canvas';
+@import 'vendor/components/orbit';
+@import 'vendor/components/pagination';
+@import 'vendor/components/progress-bar';
+@import 'vendor/components/reveal';
+@import 'vendor/components/slider';
+@import 'vendor/components/sticky';
+@import 'vendor/components/switch';
+@import 'vendor/components/table';
+@import 'vendor/components/tabs';
+@import 'vendor/components/title-bar';
+@import 'vendor/components/top-bar';
+@import 'vendor/components/thumbnail';
+@import 'vendor/components/tooltip';
 
 // These styles are applied to <meta> tags, which are read by the Foundation JavaScript
 .foundation-mq {

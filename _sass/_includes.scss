@@ -1,8 +1,25 @@
-@import "hero";
-@import "posts";
-@import "banner";
-@import "author";
-@import "footer";
-@import "section";
-@import "helpers";
-@import "article";
+@charset "utf-8";
+
+// Get all the site variables
+@import "variables";
+
+// Go and get foundation ready
+@import "foundation";
+
+// And get it set up in the right way
+@include foundation-everything;
+@include foundation-flex-grid;
+
+// Get our canvas setup
+@import "vendor/canvas";
+
+// Go and get all the site components <3 BEM
+@import "components/hero";
+@import "components/posts";
+@import "components/banner";
+@import "components/author";
+@import "components/footer";
+@import "components/section";
+@import "components/helpers";
+@import "components/article";
+@import "components/logo";
