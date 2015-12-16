@@ -10,5 +10,7 @@ url: "http://spacebetween.io" # the base hostname & protocol for your site
 twitter_username: Space__Between
 github_username:  spacebetween
 
+permalink: /404.html 
+
 # Build settings
 markdown: kramdown
