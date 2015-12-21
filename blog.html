@@ -24,10 +24,10 @@ layout: default
 					href="{{ post.url | prepend: site.baseurl }}"
 					style="background-image: url('{{ post.banner }}');"></a>
 				{% endif %}
-				<div class="posts_body">
-					<a class="posts_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
-						<h3 class="posts_title">{{ post.title }}</h3>
-						<p class="posts_excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
+				<div class="post">
+					<a class="post_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
+						<h3 class="post_title">{{ post.title }}</h3>
+						<p class="post_excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
 					</a>
 				</div>
 			</li>
