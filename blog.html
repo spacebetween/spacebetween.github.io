@@ -4,9 +4,9 @@ layout: default
 
 <div class="row">
 
-	<ul class="posts columns center medium-8 large-6">
+	<ul class="blog columns center medium-8 large-6">
 		{% for post in site.posts %}
-			<li class="posts_post">
+			<li class="blog_post">
 				<div class="author">
 					<img class="author_image" src="https://www.gravatar.com/avatar/{{ post.authorPhoto }}?s=100">
 					<div class="author_meta">
@@ -24,7 +24,7 @@ layout: default
 					href="{{ post.url | prepend: site.baseurl }}"
 					style="background-image: url('{{ post.banner }}');"></a>
 				{% endif %}
-				<div class="post_body">
+				<div class="post">
 					<a class="post_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
 						<h3 class="post_title">{{ post.title }}</h3>
 						<p class="post_excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
