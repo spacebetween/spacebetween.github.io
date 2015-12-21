@@ -25,7 +25,7 @@ layout: default
 					style="background-image: url('{{ post.banner }}');"></a>
 				{% endif %}
 				<div class="post_body">
-					<a class="post_link" href="{{ post.url | prepend: site.baseurl }}">
+					<a class="post_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
 						<h3 class="post_title">{{ post.title }}</h3>
 						<p class="post_excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
 					</a>
