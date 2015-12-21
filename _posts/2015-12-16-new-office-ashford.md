@@ -12,12 +12,12 @@ Since day 1 we have been graciously hosted by [HR GO](http://www.hrgo.co.uk).But
 
 <img src="/assets/images/blog/storeRoom.jpg" alt="A dark room packed with furniture from floor to ceiling." class="img img-vMargin">
 
-It started out as a spare furniture-packed room belonging to [RHL](http://www.rhl.co.uk), just across the road from [HR GO](http://www.hrgo.co.uk). We were thankfully given the pick of furniture we wanted from the room. The room was full of the discarded love children from Ikea-Staples. We chose the best suited pieces and then moved the rest into another room that was to become a graveyard for the sad and unsightly children.
+It started out as a spare furniture packed room belonging to [RHL](http://www.rhl.co.uk), just across the road from [HR GO](http://www.hrgo.co.uk). We were thankfully given the pick of furniture we wanted from the room. The room was full of the discarded love children from Ikea-Staples. We chose the best suited pieces and then moved the rest into another room that was to become a graveyard for the sad and unsightly children.
 
 <img src="/assets/images/blog/lukeYata.jpg" alt="Luke is celebrating after a days heavy lifting" class="img img-vMargin">
 <img src="/assets/images/blog/marcusSitting.jpg" alt="Marcus is sitting working" class="img img-vMargin">
 
-A big thanks to Bob for helping us move, i tried to get a picture of Bob but he proved too elusive.
+A big thanks to Bob for helping us move, I tried to get a picture of Bob but he proved too elusive.
 
 We love our new office, it gives us the room to grow and the space to create a culture we can be proud of. We want to evolve this area into a place that allows creativity and displays our character. We are mulling over the idea of some signage for the door, more whiteboard space and perhaps attaching Lego vertically to the wall!
 
