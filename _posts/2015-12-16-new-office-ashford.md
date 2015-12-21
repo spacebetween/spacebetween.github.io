@@ -17,8 +17,8 @@ It started out as a spare furniture-packed room belonging to [RHL](http://www.rh
 <img src="/assets/images/blog/lukeYata.jpg" alt="Luke is celebrating after a days heavy lifting" class="img img-vMargin">
 <img src="/assets/images/blog/marcusSitting.jpg" alt="Marcus is sitting working" class="img img-vMargin">
 
-A big thanks to Bob for helping us move. I tried to get a picture of Bob but he proved too elusive.
+A big thanks to Bob for helping us move, i tried to get a picture of Bob but he proved too elusive.
 
 We love our new office, it gives us the room to grow and the space to create a culture we can be proud of. We want to evolve this area into a place that allows creativity and displays our character. We are mulling over the idea of some signage for the door, more whiteboard space and perhaps attaching Lego vertically to the wall!
 
-Expect more blogs when we mold our office further! 
+Expect more blogs when we shape our office further! 
