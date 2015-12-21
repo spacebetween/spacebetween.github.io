@@ -1,6 +1,6 @@
 ---
 layout: 		post
-title:  		"Check out our Space Between RHL and Stadler"
+title:  		"Check out our Space"
 date:   		2015-12-16
 author: 		"Marcus Cooke"
 authorPhoto:	"2aa226fd35a96b7dcf125f686d944245"
@@ -19,4 +19,6 @@ It started out as a spare, furniture-packed, room belonging to [RHL](http://www.
 
 A big thanks to Bob for helping us move. I tried to get a picture of Bob but he proved too elusive.
 
-We love our new office, it gives us the room to grow and the space to create a culture we can be proud of. We want to evolve this area into a place that allows creativity and displays our character. We will keep blogging about how we mold our space.
+We love our new office, it gives us the room to grow and the space to create a culture we can be proud of. We want to evolve this area into a place that allows creativity and displays our character. We are mulling over the idea of some signage for the door, more whiteboard space and perhaps attaching Lego vertically to the wall!
+
+Expect more blogs when we mold our office further! 
