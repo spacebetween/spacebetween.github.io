@@ -2,6 +2,16 @@
 
 #!! ERROR: p is undefined. Use list command to see defined gitignore types !!#
 
+# Windows
+**/Thumbs.db
+**/Desktop.ini
+
+# Other OS
+**/.DS_Store
+**/.Spotlight-V100
+**/.Trashes
+**/*.orig
+
 ### Node ###
 # Logs
 logs
