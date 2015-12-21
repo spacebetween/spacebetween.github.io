@@ -12,7 +12,7 @@ Since day 1 we have been graciously hosted by [HR GO](http://www.hrgo.co.uk).But
 
 <img src="/assets/images/blog/storeRoom.jpg" alt="A dark room packed with furniture from floor to ceiling." class="img img-vMargin">
 
-It started out as a spare, furniture-packed, room belonging to [RHL](http://www.rhl.co.uk), just across the road from [HR GO](http://www.hrgo.co.uk). We were thankfully given the pick of furniture we wanted from the room. The room was full of the discarded love children from Ikea-Staples. We chose the best suited pieces and then moved the rest into another room that was to become a graveyard for the sad and unsightly children.
+It started out as a spare furniture-packed room belonging to [RHL](http://www.rhl.co.uk), just across the road from [HR GO](http://www.hrgo.co.uk). We were thankfully given the pick of furniture we wanted from the room. The room was full of the discarded love children from Ikea-Staples. We chose the best suited pieces and then moved the rest into another room that was to become a graveyard for the sad and unsightly children.
 
 <img src="/assets/images/blog/lukeYata.jpg" alt="Luke is celebrating after a days heavy lifting" class="img img-vMargin">
 <img src="/assets/images/blog/marcusSitting.jpg" alt="Marcus is sitting working" class="img img-vMargin">
