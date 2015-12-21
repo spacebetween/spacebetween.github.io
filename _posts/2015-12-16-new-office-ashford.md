@@ -8,7 +8,7 @@ categories: 	space between
 banner:			"/assets/images/blog/happyLuke.jpg"
 ---
 
-Since day 1 we have been graciously hosted by [HR GO](http://www.hrgo.co.uk).But as a new team we need a place to build a business together. Part of that is being able to have the conversions you need have in a space where everyone feels comfortable saying what they need to say. We need to be able to bring clients to our space and have discussions, meetings and presentations. We can now proudly say we have that space.
+Since day 1 we have been graciously hosted by [HR GO](http://www.hrgo.co.uk).But as a new team we need a place to build a business together. Part of that is being able to have the conversations you need have in a space where everyone feels comfortable saying what they need to say. We need to be able to bring clients to our space and have discussions, meetings and presentations. We can now proudly say we have that space.
 
 <img src="/assets/images/blog/storeRoom.jpg" alt="A dark room packed with furniture from floor to ceiling." class="img img-vMargin">
 
