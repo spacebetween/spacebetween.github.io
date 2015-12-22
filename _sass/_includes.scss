@@ -13,11 +13,6 @@
 // Get our canvas setup
 @import "vendor/canvas";
 
-$screen-medium: 640px !default;
-$screen-large: 1024px !default;
-$screen-xlarge: 1200px !default;
-$screen-xxlarge: 1440px !default;
-
 // Go and get all the site components <3 BEM
 @import "components/hero";
 @import "components/blog";

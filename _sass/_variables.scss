@@ -12,3 +12,8 @@ $grey: rgba(0,0,0,0.44);
 $anchor-color: $secondary-color;
 $anchor-text-decoration-hover: underline;
 $topbar-background: transparent;
+
+$screen-medium: 640px !default;
+$screen-large: 1024px !default;
+$screen-xlarge: 1200px !default;
+$screen-xxlarge: 1440px !default;
