@@ -3,7 +3,12 @@
     background-position: center;
     height: 200px;
     display: block;
-    &-large {
-    	height: 400px;
+}
+
+@media ( min-width: $screen-medium ) {
+    .banner {
+        &-large {
+            height: 400px;
+        }
     }
 }
