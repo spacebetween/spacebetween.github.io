@@ -2,9 +2,7 @@
 layout: 		post
 title:  		"Check out our Space"
 date:   		2015-12-16
-author: 		"Marcus Cooke"
 author_id:      "marcus_cooke"
-authorPhoto:	"2aa226fd35a96b7dcf125f686d944245"
 description:	"We've flown the nest and moved into our own place!"
 categories: 	space between
 banner:			"/assets/images/blog/happyLuke.jpg"
