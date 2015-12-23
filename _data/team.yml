@@ -1,32 +1,32 @@
-- john_parkinson:
-  name: John Parkinson
-  title: CEO
-  blurb: >
-    As CEO I look after the day-to-day operations at Space Between. My favorite parts of my job are chatting with our clients and innovating solutions to their problems with the team. I love working with new technology and I'm especially nerdy about angular.js and meteor.js. I've got a pug called Oak, who snores.
-  photo: b49bd041db4a19c135b3e616a47d9226
-  twitter: JohnPd3v
-- lukas_vorlicek:
-  name: Lukas Vorlicek
-  title: Developer
-  blurb:
-  photo: f0ca3a7bb144424405319ed91d34579c
-- luke_frake:
-  name: Luke Frake
-  title: Director
-  blurb: >
-    I love making things easier for people, I class people as our clients, their users and our team. I'm my happiest when I'm talking to people about the web, tinkering with a new piece of tech, or working on our awesome culture. If I'm not working, I'll be spending time with my better half Brianna, relaxing with a nice ale, or playing video games. Sometimes all at the same time!
-  photo: 57a043075d8faed58073da501b422798
-  twitter: LukeFrake
-- marcus_cooke:
-  name: Marcus Cooke
-  title: Director
-  blurb: >
-    I'm a huge fan of making things look and feel great. I love working with our clients, taking their ideas, and moulding it into something that their users will love! I'm a passionate gamer, and my favourite game is League of Legends. When I'm not at work I'm with my significant other Catherine, we have a massive cat called Parsley.
-  photo: 2aa226fd35a96b7dcf125f686d944245
-  twitter: mjcooke88
-- petr_fruhling:
-  name: Petr Fruhling
-  title: Director
-  blurb:
-  photo: 
-  twitter: Freela101
+john_parkinson:
+  - name: John Parkinson
+    title: CEO
+    blurb: >
+      As CEO I look after the day-to-day operations at Space Between. My favorite parts of my job are chatting with our clients and innovating solutions to their problems with the team. I love working with new technology and I'm especially nerdy about angular.js and meteor.js. I've got a pug called Oak, who snores.
+    photo: b49bd041db4a19c135b3e616a47d9226
+    twitter: JohnPd3v
+lukas_vorlicek:
+  - name: Lukas Vorlicek
+    title: Developer
+    blurb:
+    photo: f0ca3a7bb144424405319ed91d34579c
+luke_frake:
+  - name: Luke Frake
+    title: Director
+    blurb: >
+      I love making things easier for people, I class people as our clients, their users and our team. I'm my happiest when I'm talking to people about the web, tinkering with a new piece of tech, or working on our awesome culture. If I'm not working, I'll be spending time with my better half Brianna, relaxing with a nice ale, or playing video games. Sometimes all at the same time!
+    photo: 57a043075d8faed58073da501b422798
+    twitter: LukeFrake
+marcus_cooke:
+  - name: Marcus Cooke
+    title: Director
+    blurb: >
+      I'm a huge fan of making things look and feel great. I love working with our clients, taking their ideas, and moulding it into something that their users will love! I'm a passionate gamer, and my favourite game is League of Legends. When I'm not at work I'm with my significant other Catherine, we have a massive cat called Parsley.
+    photo: 2aa226fd35a96b7dcf125f686d944245
+    twitter: mjcooke88
+petr_fruhling:
+  - name: Petr Fruhling
+    title: Director
+    blurb:
+    photo: 
+    twitter: Freela101
