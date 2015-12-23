@@ -8,12 +8,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KDKL7V');</script>
 <!-- End Google Tag Manager -->
 
-<div class="row">
+<nav class="row">
 	<div class="column nav">
-		<div class="top-bar-left nav_links">
-			<ul class="menu horizontal text-center">
+		<div class="columns small-5 nav_links">
+			<ul class="menu text-center">
 				<li class="nav_logoContainer">
 					<h3><a href="/" class="logo anchor anchor-bland">{{ site.name | upcase }}</a></h3>
+				</li>
+			</ul>
+		</div>
+		<div class="columns small-7 nav_contact">
+			<button type="button" class="button show-for-small-only text-right" data-toggle="offCanvas">Menu</button>
+			<ul class="menu align-right hide-for-small-only">
+				<li>
+					<a href="tel:{{site.phone}}" class="anchor button" data-category="topBar" data-action="phoneClick">Get in touch</a>
 				</li>
 				<li>
 					<a href="/blog" class="anchor anchor-bland">Blog</a>
@@ -23,15 +31,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</li>
 			</ul>
 		</div>
-		<div class="top-bar-right nav_contact">
-			<ul class="menu vertical text-right">
-				<li>
-					<a href="tel:{{site.phone}}" class="anchor anchor-bland anchor-rightAlign" data-category="topBar" data-action="phoneClick">{{site.phone}} <i class="fa fa-phone fa-fw"></i></a>
-				</li>
-				<li>
-					<a href="mailto:{{site.email}}" target="_top" class="anchor anchor-bland anchor-rightAlign" data-category="topBar" data-action="emailClick">{{site.email}} <i class="fa fa-envelope fa-fw"></i></a>
-				</li>
-			</ul>
-		</div>
+	</div>
+</nav>
+
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+		<div class="off-canvas position-left" id="offCanvas" data-off-canvas></div>
+		<div class="off-canvas-content" data-off-canvas-content></div>
 	</div>
 </div>

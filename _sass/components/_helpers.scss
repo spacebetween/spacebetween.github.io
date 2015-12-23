@@ -1,7 +1,16 @@
+body {
+	border-top: 10px solid $secondary-color;
+	padding-top: 1em;
+}
+
 .center {
 	margin: 0 auto;
 }
 
 .selected {
 	text-decoration: underline;
+}
+
+.sideHighlight {
+	border-left: 10px solid $secondary-color;
 }
