@@ -5,7 +5,8 @@ layout: default
 <div class="row">
 
 	<ul class="article center columns medium-10 large-8">
-		{% for person in site.data.team %}
+		{% for people in site.data.team %}
+			{% assign person = people[1][0] %}
 			{% if person.name and person.title and person.blurb and person.photo %}
 				<li class="row article_row">
 					<div class="columns small-12 medium-6">
