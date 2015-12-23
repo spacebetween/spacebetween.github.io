@@ -24,4 +24,3 @@ collections:
 
 gems:
   - jekyll-sitemap
-  - jekyll-last-modified-at
