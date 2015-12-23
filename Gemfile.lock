@@ -130,7 +130,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-last-modified-at
-  jekyll-sitemap
 
 BUNDLED WITH
    1.10.6
