@@ -7,7 +7,7 @@ author_id:      "luke_frake"
 authorPhoto:    "57a043075d8faed58073da501b422798"
 description:	"It's a well-known fact, and it only makes it harder when it's your brand. So I thought I’d take you through the process we used to come up with our name."
 categories:     space between
-banner:         "/assets/images/blog/stars.png"
+banner:         "/assets/images/blog/stars.jpg"
 ---
 
 It's a well-known fact, and it only makes it harder when it's your brand. So I thought I’d take you through the process we used to come up with our name.
