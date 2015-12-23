@@ -3,7 +3,9 @@ layout: 		post
 title:  		"Hello From Space Between!"
 date:   		2015-11-23
 author: 		"Luke Frake"
+author_id:      "luke_frake"
 authorPhoto:	"57a043075d8faed58073da501b422798"
+description:	"We're a group of web enthusiasts based in Ashford, Kent, England. We are happiest when we are helping people interact better with websites, and pushing the web to its extreme."
 categories: 	space between
 banner:			"http://www.gratisography.com/pictures/213_1.jpg"
 ---

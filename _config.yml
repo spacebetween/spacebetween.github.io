@@ -1,6 +1,7 @@
 # Site settings
 title: Space Between design and development house
 name: Space Between
+logo: /assets/images/spaceBetween.png
 email: hello@spacebetween.io
 phone: 01233 800991
 description: >
@@ -8,7 +9,9 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spacebetween.io" # the base hostname & protocol for your site
 twitter_username: Space__Between
-github_username:  spacebetween
+github_username: spacebetween
+facebook_id: 1107841962590004
+facebook_admin_ids: "[100007402451403,732802075]"
 
 # Build settings
 markdown: kramdown
@@ -21,3 +24,4 @@ collections:
 
 gems:
   - jekyll-sitemap
+  - jekyll-last-modified-at
