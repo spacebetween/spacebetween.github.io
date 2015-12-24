@@ -10,8 +10,9 @@
 @include foundation-everything;
 @include foundation-flex-grid;
 
-// Get our canvas setup
+// Get our vendor files setup
 @import "vendor/canvas";
+@import "vendor/offside";
 
 // Go and get all the site components <3 BEM
 @import "components/attention";

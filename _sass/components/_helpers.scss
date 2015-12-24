@@ -1,5 +1,4 @@
 body {
-	border-top: 10px solid $secondary-color;
 	padding-top: 1em;
 }
 
@@ -12,5 +11,9 @@ body {
 }
 
 .sideHighlight {
-	border-left: 10px solid $secondary-color;
+	border-left: 1em solid $secondary-color;
+}
+
+.topHighlight {
+	border-top: 1em solid $secondary-color;
 }

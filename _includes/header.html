@@ -8,28 +8,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KDKL7V');</script>
 <!-- End Google Tag Manager -->
 
-<nav class="row">
-	<div class="column nav">
-		<div class="columns small-5 nav_links">
-			<ul class="menu text-center">
-				<li class="nav_logoContainer">
-					<h3><a href="/" class="logo anchor anchor-bland">{{ site.name | upcase }}</a></h3>
-				</li>
-			</ul>
-		</div>
-		<div class="columns small-7 nav_contact">
-			<button type="button" class="button show-for-small-only text-right" data-toggle="offCanvas">Menu</button>
-			<ul class="menu align-right hide-for-small-only">
-				<li>
-					<a href="tel:{{site.phone}}" class="anchor button" data-category="topBar" data-action="phoneClick">Get in touch</a>
-				</li>
-				<li>
-					<a href="/blog" class="anchor anchor-bland">Blog</a>
-				</li>
-				<li>
-					<a href="/team" class="anchor anchor-bland">Team</a>
-				</li>
-			</ul>
-		</div>
+<nav class="row nav align-justify">
+	<div class="columns small-8 medium-6 nav_links">
+		<ul class="menu">
+			<li class="nav_logoContainer">
+				<h3><a href="/" class="logo anchor anchor-bland">{{ site.name | upcase }}</a></h3>
+			</li>
+		</ul>
+	</div>
+	<div class="columns shrink medium-6 nav_contact">
+		<ul class="menu show-for-small-only">
+			<li>
+				<a type="button" href="#offCanvas" class="button expanded text-right " data-toggle="offCanvas">Menu</a>
+			</li>
+		</ul>
+		<ul class="menu hide-for-small-only">
+			{% include menu.html %}
+		</ul>
 	</div>
 </nav>
+
+<div id="offCanvas" class="nav row offCanvas align-right">
+	<a href="#" class="offCanvas_close"></a>
+	<ul class="offCanvas_inner menu vertical show-for-small-only text-right">
+		<li>
+			<a class="anchor anchor-bland" href="#">Close &#x2716;</a>
+		</li>
+		{% include menu.html %}
+	</ul>
+</div>
