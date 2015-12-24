@@ -2,29 +2,3 @@
 	font-family: $header-font-family;
 	font-weight: 700;
 }
-
-.offCanvas {
-	position: fixed;
-	width: 0;
-	overflow: hidden;
-	transition: ease 0.3s width;
-	top: 0;
-	bottom: 0;
-	right: 0;
-	&_close {
-		position: absolute;
-		top: 0;
-		bottom: 0;
-		right: 0;
-		left: 0;
-	}
-	&_inner {
-		background-color: $body-background;
-		width: 50%;
-		z-index: 10;
-	}
-}
-
-#offCanvas:target {
-	width: 100%;
-}
