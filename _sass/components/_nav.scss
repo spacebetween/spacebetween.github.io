@@ -1,4 +1,7 @@
 .nav {
 	font-family: $header-font-family;
 	font-weight: 700;
+	&-spaced {
+		margin: 1em 0;
+	}
 }
