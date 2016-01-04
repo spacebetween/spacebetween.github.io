@@ -1,25 +1,28 @@
 .offCanvas {
-	position: fixed;
-	width: 0;
-	overflow: hidden;
-	transition: ease 0.3s width;
-	top: 0;
-	bottom: 0;
-	right: 0;
+	position: absolute;
+	top:0;
+	height: 0;
+	width: 100%;
+	border-bottom: 8px solid $secondary-color;
+	background: black;
 	&_close {
-		position: absolute;
-		top: 0;
-		bottom: 0;
-		right: 0;
-		left: 0;
+
 	}
 	&_inner {
-		background-color: $body-background;
-		width: 50%;
-		z-index: 10;
+		display: none;
+		width: 100%;
 	}
 }
 
 #offCanvas:target {
-	width: 100%;
+	height: auto;
+	.offCanvas_inner {
+		display: block;
+	}
+}
+
+@media ( min-width: $screen-medium ) {
+	.offcanvas {
+		display: none;
+	}
 }
