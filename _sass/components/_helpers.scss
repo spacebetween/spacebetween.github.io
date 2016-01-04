@@ -7,9 +7,6 @@
 }
 
 .sideHighlight {
-	border-left: 1em solid $secondary-color;
-}
-
-.topHighlight {
-	border-top: 1em solid $secondary-color;
+	border-left: 8px solid $secondary-color;
+	margin-left: 2rem;
 }
