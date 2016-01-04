@@ -32,7 +32,7 @@
   -webkit-animation-duration: .75s;
   animation-duration: .75s;
 }
-
+/*
 @-webkit-keyframes bounce {
   from, 20%, 53%, 80%, to {
     -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
@@ -726,7 +726,7 @@
 .bounceIn {
   -webkit-animation-name: bounceIn;
   animation-name: bounceIn;
-}
+}*/
 
 @-webkit-keyframes bounceInDown {
   from, 60%, 75%, 90%, to {
@@ -800,7 +800,7 @@
   -webkit-animation-name: bounceInDown;
   animation-name: bounceInDown;
 }
-
+/*
 @-webkit-keyframes bounceInLeft {
   from, 60%, 75%, 90%, to {
     -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
@@ -3337,4 +3337,4 @@
 .slideOutUp {
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
-}
+}*/
