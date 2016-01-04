@@ -1,6 +1,6 @@
 .offCanvas {
 	position: absolute;
-	top:0;
+	top: 0;
 	height: 0;
 	width: 100%;
 	border-bottom: 8px solid $secondary-color;
@@ -14,8 +14,10 @@
 	}
 }
 
-#offCanvas:target {
+#offCanvas.active {
 	height: auto;
+	top: -20px;
+	padding-top: 20px;
 	.offCanvas_inner {
 		display: block;
 	}
