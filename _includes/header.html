@@ -8,6 +8,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KDKL7V');</script>
 <!-- End Google Tag Manager -->
 
+<div id="offCanvas" class="offCanvas">
+	<div class="offCanvas_inner">
+		<div class="row nav nav-spaced align-justify align-middle">
+			<div class="columns small-8 medium-6">
+				<ul class="menu">
+					<li class="nav_logoContainer">
+						<h1 class="logo"><a href="/" class="anchor anchor-bland">{{ site.name | upcase }}</a></h1>
+					</li>
+				</ul>
+			</div>
+			<div class="columns shrink small-6">
+				<ul class="menu show-for-small-only">
+					<li class="align-right">
+						<a type="button" href="#" class="button expanded text-right" data-toggle="offCanvas">Menu</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row nav nav-spaced">
+			<div class="columns small-12">
+				<ul class="menu vertical">
+					{% include menu.html %}
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
 <nav class="row nav nav-spaced align-justify align-middle">
 	<div class="columns small-8 medium-6 nav_links">
 		<ul class="menu">
@@ -19,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="columns shrink medium-6 nav_contact">
 		<ul class="menu show-for-small-only">
 			<li>
-				<a type="button" href="#offCanvas" class="button expanded text-right " data-toggle="offCanvas">Menu</a>
+				<a type="button" href="#offCanvas" class="button expanded text-right" data-toggle="offCanvas">Menu</a>
 			</li>
 		</ul>
 		<ul class="menu hide-for-small-only">
@@ -27,13 +55,3 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</ul>
 	</div>
 </nav>
-
-<div id="offCanvas" class="nav row offCanvas align-right">
-	<a href="#" class="offCanvas_close"></a>
-	<ul class="offCanvas_inner menu vertical show-for-small-only text-right">
-		<li>
-			<a class="anchor anchor-bland" href="#">Close &#x2716;</a>
-		</li>
-		{% include menu.html %}
-	</ul>
-</div>
