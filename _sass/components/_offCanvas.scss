@@ -5,9 +5,6 @@
 	width: 100%;
 	border-bottom: 8px solid $secondary-color;
 	background: black;
-	&_close {
-
-	}
 	&_inner {
 		display: none;
 		width: 100%;
@@ -23,7 +20,7 @@
 	}
 }
 
-@media ( min-width: $screen-medium ) {
+@media (min-width: $screen-medium) {
 	.offcanvas {
 		display: none;
 	}
