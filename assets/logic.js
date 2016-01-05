@@ -10,10 +10,11 @@ $(document).ready(function(){
 	var canvas = document.getElementById('canvasContainer');
 	canvas.width = window.innerWidth;
 	canvas.height = window.innerHeight;
+	
 	var context = canvas.getContext('2d');
 	var stars = canvas.width / 2;
-	console.log('stars', stars);
 	var colorrange = [0,60,240];
+
 	for (var i = 0; i < stars; i++) {
 		var x = Math.random() * canvas.offsetWidth;
 		y = Math.random() * canvas.offsetHeight,
