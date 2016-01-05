@@ -8,6 +8,9 @@ description: >
   Hugely experienced web design and development house based in Kent. We design, build & grow your online experience with you, delivering measurable results.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spacebetween.io" # the base hostname & protocol for your site
+themeColor: "#29abe2"
+
+# Social
 twitter_username: Space__Between
 github_username: spacebetween
 facebook_id: 1107841962590004

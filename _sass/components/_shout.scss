@@ -1,0 +1,13 @@
+.shout {
+	font-weight: 100;
+	&-loudly {
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+}
+
+@media screen and (min-width: $screen-medium) {
+	.shout {
+		font-size: 4rem;
+	}
+}

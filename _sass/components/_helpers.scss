@@ -5,3 +5,8 @@
 .selected {
 	text-decoration: underline;
 }
+
+.sideHighlight {
+	border-left: 8px solid $secondary-color;
+	margin-left: 2rem;
+}
