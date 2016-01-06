@@ -12,5 +12,14 @@ blockquote {
 
 .sideHighlight {
 	border-left: 8px solid $secondary-color;
-	margin-left: 2rem;
+	height: 100%;
+}
+
+.skinnyText {
+	font-weight: 100;
+}
+
+.thinHeader {
+	margin: 0;
+	line-height: 1;
 }
