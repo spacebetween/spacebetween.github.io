@@ -52,6 +52,7 @@ blockquote {
 		text-transform: uppercase;
 		font-weight: 700;
 		z-index: 2;
+		font-size: 4rem;
 	}
 	&:hover {
 		.tile_image {
@@ -60,9 +61,9 @@ blockquote {
 		}
 	}
 }
-.row-fullWidth {
+.row-wide {
 	padding: 0;
-	max-width: 100%;
+	max-width: 1600px;
 	width: 100%;
 }
 
