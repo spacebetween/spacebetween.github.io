@@ -31,7 +31,16 @@ blockquote {
 	overflow: hidden;
 	flex: 0 0 100%;
 	cursor: pointer;
-
+	&:hover {
+		.tile_image {
+			opacity: 0.9;
+			-webkit-filter: grayscale(40%);
+		}
+		.tile_caption::before, .tile_title, .tile_i {
+			opacity: 1;
+			transform: translate3d(0,0,0);
+		}
+	}
 	&_container {
 		display: flex;
 		flex-wrap: wrap;
@@ -97,16 +106,6 @@ blockquote {
 	}
 	&_caption::before, &_title {
 		transition: transform 0.35s;
-	}
-	&:hover {
-		.tile_image {
-			opacity: 0.9;
-			-webkit-filter: grayscale(40%);
-		}
-		.tile_caption::before, .tile_title, .tile_i {
-			opacity: 1;
-			transform: translate3d(0,0,0);
-		}
 	}
 }
 
