@@ -1,7 +1,7 @@
 <section class="section">
 	<div class="tile_container">
 	{% for work in site.caseStudies %}
-	{% if work.published == y %}
+	{% if work.published == "y" %}
 		<figure class="tile tile-honey">
 			<img src="{{work.thumbnail}}" alt="img01" class="tile_image"/>
 			<figcaption class="tile_caption">
