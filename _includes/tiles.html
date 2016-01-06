@@ -1,0 +1,11 @@
+<section class="section">
+	<div class="row tiles">
+	{% for work in site.caseStudies %}
+	{% if work.published == y %}
+		<div class="columns small-12 medium-6 tiles_tile" style="background-image: url({{ work.thumbnail }});">
+			<h2 class="text-center">{{ work.title }}</h2>
+		</div>
+	{% endif %}
+	{% endfor %}
+	</div>
+</section>
