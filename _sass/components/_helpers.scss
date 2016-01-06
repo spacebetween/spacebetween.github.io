@@ -25,51 +25,153 @@ blockquote {
 }
 
 .tile {
+	text-align: center;
+	margin: 0;
 	position: relative;
-	height: 200px;
-	height: 50vh;
-	max-height: 400px;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 50%;
-	display: flex;
-	align-items: center;
 	overflow: hidden;
-	&_image {
-		position: absolute;
-		z-index: 1;
-		overflow: hidden;
-		top: 0;
-		left: -25%;
-		max-width: none;
-		height: 50vh;
-		transition: all 1s ease;
-		-webkit-filter: grayscale(100%);
-	}
-	&_title {
-		text-align: center;
-		flex: 0 0 100%;
-		text-transform: uppercase;
-		font-weight: 700;
-		z-index: 2;
-		font-size: 4rem;
-	}
-	&:hover {
+	flex: 0 0 100%;
+	cursor: pointer;
+	&-oscar {
 		.tile_image {
-			transform: scale(1.1);
-			-webkit-filter: grayscale(30%);
+			opacity: 0.9;
+			-webkit-transition: opacity 0.35s;
+			transition: opacity 0.35s;
+			-webkit-filter: grayscale(40%);
+		}
+		.tile_caption {
+			padding: 3em;
+			-webkit-transition: background-color 0.35s;
+			transition: background-color 0.35s;
+			&::before {
+				position: absolute;
+				top: 30px;
+				right: 30px;
+				bottom: 30px;
+				left: 30px;
+				border: 1px solid #fff;
+				content: '';
+			}
+		}
+		.tile_title {
+			-webkit-transition: -webkit-transform 0.35s;
+			transition: transform 0.35s;
+			-webkit-transform: translate3d(0,100%,0);
+			transform: translate3d(0,100%,0);	
+		}
+		.tile_description, .tile_caption::before {
+			opacity: 0;
+			-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+			transition: opacity 0.35s, transform 0.35s;
+			-webkit-transform: scale(0);
+			transform: scale(0);
+		}
+		&:hover {
+			.tile_title {
+				-webkit-transform: translate3d(0,0,0);
+				transform: translate3d(0,0,0);
+			}
+			.tile_caption::before, .tile_description{
+				opacity: 1;
+				-webkit-transform: scale(1);
+				transform: scale(1);
+			}
+			.tile_image {
+				opacity: 0.4;
+				-webkit-filter: grayscale(90%);
+			}
 		}
 	}
-}
-.row-wide {
-	padding: 0;
-	max-width: 1600px;
-	width: 100%;
+	&-honey {
+		.tile_image {
+			opacity: 0.7;
+			-webkit-transition: all 0.35s;
+			transition: all 0.35s;
+			-webkit-filter: grayscale(100%);
+		}
+		.tile_title {
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			padding: 1em 1.5em;
+			width: 100%;
+			text-align: left;
+			-webkit-transform: translate3d(0,-30px,0);
+			transform: translate3d(0,-30px,0);
+		}
+		.tile_caption::before {
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+			height: 10px;
+			background: $secondary-color;
+			content: '';
+			-webkit-transform: translate3d(0,11px,0);
+			transform: translate3d(0,11px,0);
+		}
+		.tile_caption::before, .tile_title {
+			-webkit-transition: -webkit-transform 0.35s;
+			transition: transform 0.35s;
+		}
+		.tile_i {
+			font-style: normal;
+			opacity: 0;
+			-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+			transition: opacity 0.35s, transform 0.35s;
+			-webkit-transform: translate3d(0,-30px,0);
+			transform: translate3d(0,-30px,0);
+		}
+		&:hover {
+			.tile_image {
+				opacity: 0.9;
+				-webkit-filter: grayscale(40%);
+			}
+			.tile_caption::before, .tile_title, .tile_i {
+				opacity: 1;
+				-webkit-transform: translate3d(0,0,0);
+				transform: translate3d(0,0,0);
+			}
+		}
+	}
+	&_container {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	&_image {
+		position: relative;
+		display: block;
+		min-height: 100%;
+		max-width: 100%;
+		opacity: 0.8;
+	}
+	&_caption {
+		padding: 2em;
+		text-transform: uppercase;
+		font-size: 1.25em;
+		-webkit-backface-visibility: hidden;
+		backface-visibility: hidden;
+		&::before, &::after {
+			pointer-events: none;
+		}
+	}
+	&_anchor {
+		z-index: 1000;
+		text-indent: 200%;
+		white-space: nowrap;
+		font-size: 0;
+		opacity: 0;
+	}
+	&_caption, &_anchor {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
 }
 
-// @media ( min-width: $screen-medium ) {
-// 	.tile {
-// 		height: 300px;
-// 		height: 50vh;
-// 	}
-// }
+@media ( min-width: $screen-medium ) {
+	.tile {
+		flex: 0 0 50%;
+	}
+}

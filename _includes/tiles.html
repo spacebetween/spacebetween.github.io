@@ -1,11 +1,15 @@
 <section class="section">
-	<div class="row row-wide tiles">
+	<div class="tile_container">
 	{% for work in site.caseStudies %}
 	{% if work.published == y %}
-		<div class="columns small-12 medium-6 tile">
-			<img class="tile_image" src="{{work.thumbnail}}" alt="">
-			<h2 class="tile_title">{{ work.title }}</h2>
-		</div>
+		<figure class="tile tile-honey">
+			<img src="{{work.thumbnail}}" alt="img01" class="tile_image"/>
+			<figcaption class="tile_caption">
+				<h2 class="tile_title">{{ work.title }} <i class="tile_i">Hi</i></h2>
+<!-- 				<p class="tile_description">Lily likes to play with crayons and pencils</p> -->
+				<a href="{{work.url}}" class="tile_anchor">View more</a>
+			</figcaption>			
+		</figure>
 	{% endif %}
 	{% endfor %}
 	</div>
