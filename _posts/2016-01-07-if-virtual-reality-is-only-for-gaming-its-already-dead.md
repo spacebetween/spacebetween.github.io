@@ -8,7 +8,7 @@ categories:     space between
 banner:         "/assets/images/blog/virtualRealityBanner.jpg"
 ---
 
-Virtual Reality or VR is getting a lot of mixed opinions at the moment. On one side, you've got people saying it's the next big thing for gaming, and it will redefine the gaming market. On the other side, you've got people saying it's overpriced and will be a fad like 3D glasses where.
+Virtual Reality or VR is getting a lot of mixed opinions at the moment. On one side, you've got people saying it's the next big thing for gaming, and it will redefine the gaming market. On the other side, you've got people saying it's overpriced and will be a fad like 3D glasses were.
 
 One side of that argument is wrong, the other is incredibly short sighted.
 
