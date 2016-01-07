@@ -23,7 +23,7 @@ If this is you, you're making things unnecessarily difficult for over 50% of you
 	<cite>Luke Wroblewski</cite>
 </blockquote>
 
-But the real benefit of optimising your website for mobile, is you’re making it future friendly. Although people are starting to use the term mobile optimisation, it doesn’t look far enough into the future, so in the industry, we use the term responsive web design, or just responsive.
+But the real benefit of optimising your website for mobile is you’re making it future friendly. Although people are starting to use the term mobile optimisation, it doesn’t look far enough into the future, so in the industry, we use the term responsive web design, or just responsive.
 
 Responsive is too big a topic to explain in this post, but the overarching explanation would be to build websites that adapt to the size of the screen the user is using. This means that your website is as beautiful and easy to use on your mobile phone as it is on your desktop computer. But it also means it’s as beautiful and easy to use on a smart watch, tablet, laptop, smart fridge, widescreen tv, that little screen in the front of your car&hellip; you get the picture. It should look, feel and work great on any screen, any size, any time.
 
