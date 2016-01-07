@@ -2,5 +2,10 @@
 layout: default
 ---
 {% include canvas.html %}
-{% include hero.html %}
+{% capture complexHeader %}
+	<a href="/process/design.html" class="anchor-bland" action="Find out more about the design phase of our projects">Design,</a>
+	<a href="/process/build.html" class="anchor-bland" action="Find out more about the build phase of our projects">Build</a>
+	&amp; <a href="/process/grow.html" class="anchor-bland" action="Find out more about the grow phase of our projects">Grow</a>
+{% endcapture %}
+{% include hero.html header=complexHeader description="Generating measurable value through innovative design and development."%}
 {% include tiles.html %}
