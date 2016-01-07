@@ -3,14 +3,14 @@ layout:         post
 title:          "If virtual reality is only for gaming, it's already dead"
 date:           2016-01-07
 author_id:      "luke_frake"
-description:    "A lot of people are talking about VR, some are saying it's an overpriced fad, some are saying it's going to change gaming. One side of that argument is wrong, the other is incredibly short sited."
+description:    "A lot of people are talking about VR, some are saying it's an overpriced fad, some are saying it's going to change gaming. One side of that argument is wrong, the other is incredibly short sighted."
 categories:     space between
-banner:            "/assets/images/blog/mobileField.jpg"
+banner:         "/assets/images/blog/virtualReality.jpg"
 ---
 
 Virtual Reality or VR is getting a lot of mixed opinions at the moment. On one side, you've got people saying it's the next big thing for gaming, and it will redefine the gaming market. On the other side, you've got people saying it's overpriced and will be a fad like 3D glasses where.
 
-One side of that argument is wrong, the other is incredibly short sited.
+One side of that argument is wrong, the other is incredibly short sighted.
 
 If virtual reality is only for gaming, it's already dead.
 
@@ -22,13 +22,13 @@ Now, you can sit around an empty table, and just produce the rest of your board,
 
 <img src="/assets/images/blog/kingsman.jpg" alt="Holograms sitting around a board room in Kingsman the movie" class="img img-vMargin">
 
-Or what about using it in schools? We've already got [Skype in the classroom](http://education.skype.com/) which allows teachers all around the world to invite people into the classroom to talk about what they do, or help people explore the country they are in. It basically takes the outside world in and gives children a safe view into a world they otherwise wouldn't have been able to access.
+Or what about using it in schools? We've already got [Skype in the classroom](http://education.skype.com/) which allows teachers all around the world to invite people into the classroom to talk about what they do, or help people explore the country they are in. It basically brings the outside world in and gives children a safe view into a world they otherwise wouldn't have been able to access.
 
 <img src="/assets/images/blog/skypeClassroom.jpg" alt="Kids sitting around interacting with Skype in the Classroom" class="img img-vMargin">
 
 As you can see, currently this doesn't look anything more than an interactive video that can talk back to you. But this could be completely immersive with the help of VR. To be able to look around, and feel you're actually in the setting.
 
-Or what about a new route entirely. I have a great Grandmother called Dora who has recently just turned 100 years old (Shout out to my Nan!). She's an incredible lady, who's seen a lot of things and has a load of great stories. Unfortunately, she's spent the last few years chair or bed bound.
+Or what about a new route entirely? I have a great Grandmother called Dora who has recently just turned 100 years old (Shout out to my Nan!). She's an incredible lady, who's seen a lot of things and has a load of great stories. Unfortunately, she's spent the last few years chair or bed bound.
 
 She's still excited by the world, and interested in what's going on in it but, unfortunately, isn't able to visit it. A virtual reality headset would be able to completely change it. If she wanted to go and [visit the Grand Canyon](https://www.youtube.com/watch?v=7BNQrCnWSJE) or [go into space](http://www.spacevr.co/) she absolutely could. There's now nothing stopping her.
 
