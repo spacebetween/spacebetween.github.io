@@ -10,7 +10,6 @@ description: We're very proud of what people have to say about us
 		<h2>Testimonials</h2>
 		<p>We're so proud of the work we do with our clients, it makes us super excited that we get work with each and every one of them.</p>
 		<p>We're also so proud of the kind words they have to say about us in return:</p>
-
 	</div>
 
 	<div class="columns small-10 center">
