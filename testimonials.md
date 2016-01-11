@@ -22,7 +22,7 @@ description: We're very proud of what people have to say about us
 		</blockquote>
 
 		<blockquote>
-			Space Between amazed us from the get go with their passion for our business. They spent time listening to our requirements and not only did they advise us, they helped us craft something we were truly proud to see both our candidates and clients use. I would recommend Space Between to anybody who is seeking to improve their business online.
+			Space Between amazed us from the start with their passion for our business. They spent time listening to our requirements and not only did they advise us, they helped us craft something we were truly proud to see both our candidates and clients use. I would recommend Space Between to anybody who is seeking to improve their business online.
 			<cite>
 				<a href="http://www.rhl.co.uk/" target="_blank">Greg Wall, Managing Director at RHL</a>
 			</cite>
