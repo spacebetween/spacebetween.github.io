@@ -1,5 +1,7 @@
 ---
 layout: default
+title: What people say about Space Between
+description: We're very proud of what people have to say about us
 ---
 
 <div class="row">
