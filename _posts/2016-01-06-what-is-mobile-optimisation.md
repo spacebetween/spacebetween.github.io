@@ -1,6 +1,6 @@
 ---
 layout: 		post
-title:  		"What is Mobile Optimisation"
+title:  		"What is Mobile Optimisation?"
 date:   		2016-01-06
 author_id:      "luke_frake"
 description:	"Making sure your website is optimised for mobiles is extremly important. But what does it mean?"
