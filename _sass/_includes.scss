@@ -14,6 +14,9 @@
 @import "vendor/canvas";
 @import "vendor/animate";
 
+// Set up Bourbon
+@import "vendor/bourbon/bourbon";
+
 // Go and get all the site components <3 BEM
 @import "components/offCanvas";
 @import "components/attention";
