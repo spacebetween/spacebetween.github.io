@@ -20,11 +20,11 @@ Seeing people face-to-face is hugely beneficial. It's why people fly around the 
 
 Now, you can sit around an empty table, and just produce the rest of your board, much like in the popular movie [Kingsman: The Secret Service](http://www.imdb.com/title/tt2802144/).
 
-<img src="/assets/images/blog/kingsman.jpg" alt="Holograms sitting around a board room in Kingsman the movie" class="img img-vMargin">
+<img src="/assets/images/blog/kingsman.jpg" title="Holograms sitting around a board room in Kingsman the movie" alt="Holograms sitting around a board room in Kingsman the movie" class="img img-vMargin">
 
 Or what about using it in schools? We've already got [Skype in the classroom](http://education.skype.com/) which allows teachers all around the world to invite people into the classroom to talk about what they do, or help people explore the country they are in. It basically brings the outside world in and gives children a safe view into a world they otherwise wouldn't have been able to access.
 
-<img src="/assets/images/blog/skypeClassroom.jpg" alt="Kids sitting around interacting with Skype in the Classroom" class="img img-vMargin">
+<img src="/assets/images/blog/skypeClassroom.jpg" title="Kids sitting around interacting with Skype in the Classroom" alt="Kids sitting around interacting with Skype in the Classroom" class="img img-vMargin">
 
 As you can see, currently this doesn't look anything more than an interactive video that can talk back to you. But this could be completely immersive with the help of VR. To be able to look around, and feel you're actually in the setting.
 
