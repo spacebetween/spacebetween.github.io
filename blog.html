@@ -10,28 +10,7 @@ description: Read the latest news and updates from The Space Between team
 		{% for post in site.posts %}
 			{% assign author = site.data.team[post.author_id][0] %}
 			<li class="blog_post">
-				<div class="author">
-					<img class="author_image" src="https://www.gravatar.com/avatar/{{author.photo}}?s=100">
-					<div class="author_meta">
-						<div class="author_title">
-							{{author.name}}
-						</div>
-						<div class="author_postMeta">
-							{{ post.date | date: "%-d/%m/%y" }} • {{ post.content | size | divided_by: 275 }} min read
-						</div>
-					</div>
-				</div>
-				{% if post.banner %}
-					<a class="banner" 
-					href="{{ post.url | prepend: site.baseurl }}"
-					style="background-image: url('{{ post.banner }}');"></a>
-				{% endif %}
-				<div class="post">
-					<a class="post_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
-						<h3 class="post_title">{{ post.title }}</h3>
-						<p class="post_excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
-					</a>
-				</div>
+				{% include blogPost.html truncate="50" %}
 			</li>
 		{% endfor %}
 	</ul>

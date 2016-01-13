@@ -1,14 +1,20 @@
 .banner {
-    background-size: cover;
-    background-position: center;
-    height: 200px;
-    display: block;
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+	display: block;
+	&:hover {
+		text-decoration: none;
+	}
+	&-small {
+		height: 150px;
+	}
 }
 
 @media ( min-width: $screen-medium ) {
-    .banner {
-        &-large {
-            height: 400px;
-        }
-    }
+	.banner {
+		&-large {
+			height: 400px;
+		}
+	}
 }
