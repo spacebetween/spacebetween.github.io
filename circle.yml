@@ -1,0 +1,11 @@
+dependencies:
+    override:
+        - bundle install
+        - sudo pip install awscli
+
+deployment:
+    aws:
+    branch: [master, staging]
+        commands:
+        - jekyll build
+        - /bin/bash publish.sh ${CIRCLE_BRANCH}
