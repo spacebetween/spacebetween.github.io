@@ -1,0 +1,12 @@
+{% include author.html %}
+{% if post.banner %}
+	<a class="banner anchor anchor-bland" 
+	href="{{ post.url | prepend: site.baseurl }}"
+	style="background-image: url('{{ post.banner }}');">&nbsp;</a>
+{% endif %}
+<div class="post">
+	<a class="post_link anchor anchor-bland" href="{{ post.url | prepend: site.baseurl }}">
+		<h3 class="post_title">{{ post.title }}</h3>
+		<p class="post_excerpt">{{ post.content | strip_html | truncatewords: include.truncate }}</p>
+	</a>
+</div>
