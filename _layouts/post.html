@@ -8,17 +8,7 @@ layout: default
 
 <div class="row">
   <header class="column medium-7 center">
-	<div class="author">
-		<img class="author_image" src="https://www.gravatar.com/avatar/{{ author.photo }}?s=100" title="Picture of {{ author.name }}" alt="Headshot of {{ author.name }}">
-		<div class="author_meta">
-			<div class="author_title">
-				{{ author.name }}
-			</div>
-			<div class="author_postMeta">
-				{{ page.date | date: "%-d/%m/%y" }} • {{ content | size | divided_by: 275 }} min read
-			</div>
-		</div>
-	</div>
+  	{% include author.html %}
 	<h1 class="banner_title">{{ page.title }}</h1>
   </header>
 </div>

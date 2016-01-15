@@ -1,15 +1,13 @@
-<section class="section">
-	<div class="tile_container">
-		{% for work in site.caseStudies %}
-			{% if work.published == true %}
-				<figure class="tile tile-honey">
-					<img src="{{work.thumbnail}}" alt="Picture of {{ work.title }}" title="Picture of {{ work.title }}" class="tile_image"/>
-					<figcaption class="tile_caption">
-						<h2 class="tile_title">{{ work.intro }} <i class="tile_i fa fa-angle-right"></i></h2>
-						<a href="{{work.url}}" class="tile_anchor">View more</a>
-					</figcaption>
-				</figure>
-			{% endif %}
-		{% endfor %}
-	</div>
-</section>
+<div class="section row">
+	{% for work in site.caseStudies %}
+		{% if work.published == true %}
+			<figure class="columns columns-noPadding small-12 medium-6 tile tile-honey">
+				<img src="{{work.thumbnail}}" alt="Picture of {{ work.title }}" title="Picture of {{ work.title }}" class="tile_image"/>
+				<figcaption class="tile_caption">
+					<h2 class="tile_title">{{ work.intro }} <i class="tile_i fa fa-angle-right"></i></h2>
+					<a href="{{work.url}}" class="tile_anchor">View more</a>
+				</figcaption>
+			</figure>
+		{% endif %}
+	{% endfor %}
+</div>
