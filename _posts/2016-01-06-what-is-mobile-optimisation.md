@@ -31,8 +31,8 @@ Making your site responsive is difficult, some people see responsive as being ab
 
 <img src="/assets/images/blog/responsive.gif" alt="Person resizing web browser" class="img img-vMargin">
 
-This isn't responsive, this is just having a fluid website. Responsive is making sure your users can enjoy your website on every device. But it's also; Making sure the navigation works fits, the screen isn't too busy, the buttons are big enough for peoples fingers, ensuring the website loads fast on a slow connection and much much more.
+This isn't responsive, this is just having a fluid website. Responsive is making sure your users can enjoy your website on every device. But it's also; Making sure the navigation fits, the screen isn't too busy, the buttons are big enough for people's fingers, ensuring the website loads fast on a slow connection and much much more.
 
-Mobile optimisation, responsive, or whatever you want to call it, is hard, but the best way to learn is to test your ideas, see what works with _your_ visitors. Becuase they are the most important people to your business.
+Mobile optimisation, responsive, or whatever you want to call it, is hard, but the best way to learn is to test your ideas, see what works with _your_ visitors. Because they are the most important people to your business.
 
 <small>&#8224; http://www.comscore.com/Insights/Presentations-and-Whitepapers/2014/The-US-Mobile-App-Report</small>
