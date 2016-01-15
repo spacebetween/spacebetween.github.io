@@ -1,6 +1,6 @@
 # Team Space Between
 
-This is the website of [spacebetween.io](http://spacebetween.io).
+This repo for [spacebetween.io](http://spacebetween.io).
 
 ## Developing
 
