@@ -33,7 +33,7 @@ layout: default
 	</div>
 </div>
 
-<div class="section row blog">
+<div class="section row">
 	{% for post in site.posts limit: 2 %}
 		{% assign author = site.data.team[post.author_id][0] %}
 		<div class="columns small-12 medium-6">
