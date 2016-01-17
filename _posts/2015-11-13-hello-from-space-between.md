@@ -6,6 +6,8 @@ author_id:      "luke_frake"
 description:	"We're a group of web enthusiasts based in Ashford, Kent. Our passion's in helping people interact better with websites and pushing the web to its extreme."
 categories: 	space between
 banner:			"/assets/images/blog/monkey.jpg"
+redirect_from:
+  - space/between/2015/11/23/hello-from-thnkr.html
 ---
 
 We're a group of web enthusiasts based in Ashford, Kent, England. We are happiest when we are helping people interact better with websites, and pushing the web to its extreme.
