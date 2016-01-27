@@ -10,7 +10,7 @@ banner:			"/assets/images/blog/people.jpg"
 
 From business owners to fresh-faced employees, everybody should ask themselves this question and they should remind themselves of the answer often.
 
-But, unfortunately, I think most people will answer this question incorrectly. I’d be willing to bet that most people are thinking of their business's product, a top new strategy you may have or maybe even just cold hard cash?
+But, unfortunately, I think most people will answer this question incorrectly. I’d be willing to bet that most people are thinking of their business' product, a top new strategy you may have or maybe even just cold hard cash?
 
 It's clear to me that people are the most important part of your business.
 
