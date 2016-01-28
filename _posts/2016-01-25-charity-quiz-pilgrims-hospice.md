@@ -8,7 +8,7 @@ categories: 	space between
 banner:			"/assets/images/blog/delegates.jpg"
 ---
 
-We were invited to a charity quiz hosted by [Stour Chambers](http://www.stourchambers.co.uk) at The Wesgate Hall in Canterbury, Kent to raise money for The Pilgrims Hospice.
+We were invited to a charity quiz hosted by [Stour Chambers](http://www.stourchambers.co.uk) at The Westgate Hall in Canterbury, Kent to raise money for The Pilgrims Hospice.
 
 <img src="/assets/images/blog/delegates.jpg" alt="The delegates of the Stour Chambers' Charity Quiz" class="img img-vMargin">
 
