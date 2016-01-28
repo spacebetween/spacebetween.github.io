@@ -2,7 +2,7 @@
 layout: 		post
 title:  		"Stour Chambers' Charity Quiz!"
 date:   		2016-01-25
-author: 		"John Parkinson"
+author: 		"john_parkinson"
 authorPhoto:	"2aa226fd35a96b7dcf125f686d944245"
 categories: 	space between
 banner:			"/assets/images/blog/delegates.jpg"
