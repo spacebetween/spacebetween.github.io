@@ -12,7 +12,7 @@ We were invited to a charity quiz hosted by [Stour Chambers](http://www.stourcha
 
 <img src="/assets/images/blog/delegates.jpg" alt="The delegates of the Stour Chambers' Charity Quiz" class="img img-vMargin">
 
-The quiz was organised by [Kate Kochnari](http://www.stourchambers.co.uk/barristers/kate-kochnari) and the marketing team there, and they asked whether we would donate any prizes for the raffle. In typical techy fashion, we got together and chose a few cool tech prizes:
+The quiz was organised by [Kate Kochnari](http://www.stourchambers.co.uk/barristers/kate-kochnari) with the marketing team there, and they asked whether we would donate any prizes for the raffle. In typical techy fashion, we got together and chose a few cool tech prizes:
 
 <img src="/assets/images/blog/prizes.jpg" alt="Space Between prize donations" class="img img-vMargin">
 
