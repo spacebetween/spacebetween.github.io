@@ -2,8 +2,8 @@
 layout: 		post
 title:  		"Stour Chambers' Charity Quiz!"
 date:   		2016-01-25
-author: 		"john_parkinson"
-authorPhoto:	"2aa226fd35a96b7dcf125f686d944245"
+author_id: 		"john_parkinson"
+description:	"We were invited to a charity quiz hosted by Stour Chambers at The Wesgate Hall in Canterbury, Kent to raise money for The Pilgrims Hospice."
 categories: 	space between
 banner:			"/assets/images/blog/delegates.jpg"
 ---
