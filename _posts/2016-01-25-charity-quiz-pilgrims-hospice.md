@@ -21,7 +21,7 @@ The quiz was organised by [Kate Kochnari](http://www.stourchambers.co.uk/barrist
 3. Amazon Fire TV stick - A competitior to the Chromecast, the 'fire stick' works in a similar way but comes with its own remote control. Netflix and iPlayer are installed out-of-the-box.
 4. Sailor Jerry's Limited Edition - We thought it wouldn't be a raffle donation without a good bottle of booze...
 
-The quiz included a music round, general knowledge, current affairs, aliasses,  cities of the world and a picture round. We got off to a flakey start with the aliasses round, but played our joker on the music round and gained a healthy lead. Mike Vigor from Big Blue Dev, a friend of ours at Space Between, has watched more films than we've written lines of code - he carried us through that round.
+The quiz included a music round, general knowledge, current affairs, aliasses, cities of the world and a picture round. We got off to a flakey start with the aliasses round, but played our joker on the music round and gained a healthy lead. Mike Vigor from Big Blue Dev, a friend of ours at Space Between, has watched more films than we've written lines of code - he carried us through that round.
 
 We didn't expect to win and we had clearly all gone to have some fun as we quickly got a round of drinks in after the demorilizing aliasses round. As the night went on, we noticed that not only were we maintaining a healthy lead on the points, we were also storming ahead of everyone else in how much we were drinking!
 
