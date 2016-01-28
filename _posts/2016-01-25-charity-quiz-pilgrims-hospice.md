@@ -5,12 +5,12 @@ date:   		2016-01-25
 author_id: 		"john_parkinson"
 description:	"We were invited to a charity quiz hosted by Stour Chambers at The Wesgate Hall in Canterbury, Kent to raise money for The Pilgrims Hospice."
 categories: 	space between
-banner:			"/assets/images/blog/delegates.png"
+banner:			"/assets/images/blog/delegates.jpg"
 ---
 
 We were invited to a charity quiz hosted by [Stour Chambers](http://www.stourchambers.co.uk) at The Westgate Hall in Canterbury, Kent to raise money for The Pilgrims Hospice.
 
-<img src="/assets/images/blog/delegates.png" alt="The delegates of the Stour Chambers' Charity Quiz" class="img img-vMargin">
+<img src="/assets/images/blog/delegates.jpg" alt="The delegates of the Stour Chambers' Charity Quiz" class="img img-vMargin">
 
 The quiz was organised by [Kate Kochnari](http://www.stourchambers.co.uk/barristers/kate-kochnari) with the marketing team there, and they asked whether we would donate any prizes for the raffle. In typical techy fashion, we got together and chose a few cool tech prizes:
 
