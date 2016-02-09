@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "What is #AskSB"
+title:          "What is #AskSB?"
 date:           2016-02-08
 author_id:      "luke_frake"
 description:    "We've started #AskSB. Our place to answer your digital, but why?"
