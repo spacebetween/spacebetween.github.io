@@ -2,43 +2,22 @@
 layout: default
 ---
 {% include canvas.html %}
-{% capture complexHeader %}
-	<a href="/process/design.html" class="anchor-bland" action="Find out more about the design phase of our projects">Design,</a>
-	<a href="/process/build.html" class="anchor-bland" action="Find out more about the build phase of our projects">Build</a>
-	&amp; <a href="/process/grow.html" class="anchor-bland" action="Find out more about the grow phase of our projects">Grow</a>
-{% endcapture %}
-{% include hero.html header=complexHeader description="Generating measurable value through innovative design and development."%}
+{% include hero.html header="Space Between" description="Innovative website and application design and development."%}
+
 <div class="section row">
 	<div class="columns small-12 medium-8">
 		<h2>We're Space Between</h2>
 		<p>We're an extremely passionate and enthusiastic group of digital designers and developers, based in Ashford, Kent.<p>
-		<p>At Space Between, we believe that to truly make a difference you have to focus on the most important person. Your users.</p>
-		<p>We've spent a lot of time and research focusing our process on the user. Using our tried and tested Design, Build &amp; Grow process, we can make everybody's website revolve around their users and when you really focus on the user, great things happen.</p>
-	</div>
-</div>
-{% include process.html %}
-<div class="section row">
-	<div class="columns small-12 medium-8">
-		<h2>Case Studies</h2>
-		<p>We put so much of ourselves into every project we take on, that we're really excited when we get the chance to show off any of our work.</p>
-		<p>Because growing your business is our passion. All of our work comes with the same high level of detail, meticulously crafted to create something you'll be proud of, we're excited to shout about but most important your customers will be thrilled to use.</p>
-	</div>
-</div>
-{% include tiles.html %}
-<div class="section row">
-	<div class="columns small-12 medium-8">
-		<h2>Blog</h2>
-		<p>Because of our passion for all things digital, we find ourselves spending a lot of time researching and contemplating, we find the best way to get this information down is to blog.</p>
-		<p>We love sharing the knowledge we collect, so here's the last two posts we've shared, alternatively, you can read more at our <a href="/blog" class="anchor anchor-bland">blog</a>.</p>
+		<p>With a focus on generating measurable value through innovative design and development, you know you're in safe hands with Space Between.</p>
 	</div>
 </div>
 
-<div class="section row">
-	{% for post in site.posts limit: 2 %}
-		{% assign author = site.data.team[post.author_id][0] %}
-		<div class="columns small-12 medium-6">
-			{% include blogPost.html truncate="15" wideImage=true %}
-		</div>
-	{% endfor %}
-	<a href="/blog" class="columns small-12 text-right">View the full blog &raquo;</a>
-</div>
+{% include services.html %}
+
+{% include contactUs.html %}
+
+{% include process.html %}
+
+{% include caseStudiesIntro.html %}
+
+{% include blogIntro.html %}

@@ -1,0 +1,10 @@
+<div class="section row">
+	<h2 class="columns small-12">We also talk about it</h2>
+	{% for post in site.posts limit: 2 %}
+		{% assign author = site.data.team[post.author_id][0] %}
+		{% assign header = post.title | truncatewords: 6 %}
+		{% assign content = post.content | strip_html | truncatewords: 40 %}
+		{% include card.html header=header info=content link=post.url image=post.banner mediumSize="6" %}
+	{% endfor %}
+	<a href="/blog" class="columns small-12 text-right">View the full blog &raquo;</a>
+</div>
