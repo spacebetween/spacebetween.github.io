@@ -1,0 +1,17 @@
+<div class="card columns small-12 medium-{{include.mediumSize | default: "4"}}">
+	<div class="card_inner {% if include.image %}card_inner-banner{% endif %}">
+		{% if include.image %}
+			<a class="banner anchor anchor-bland" 
+			href="{{ post.link | prepend: site.baseurl }}"
+			style="background-image: url('{{ include.image }}');">&nbsp;</a>
+		{% endif %}
+		<h4 class="card_header">{{include.header}}</h4>
+		<hr class="card_break">
+		<p class="card_info">
+			{{include.info}}
+		</p>
+		{% if include.link %}
+			<a class="card_link text-right" href="{{include.link}}">Read more</a>
+		{% endif %}
+	</div>
+</div>
