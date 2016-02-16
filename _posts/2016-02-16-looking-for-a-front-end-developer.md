@@ -22,19 +22,22 @@ We're up for using the best tech to solve the problem, so we're all for hearing 
 
 We're happy hearing from people at any stage of their front-end development career, from junior to master. Our only expectation is you have a passion for what you do.
 
-Apart from that bonus's would be:
+Apart from that, bonus's would be:
 
 * Experience with front-end frameworks
 * Experience with app development, React Native, Cordova etc
 * Experience designing beautiful UI
 * Experience with modern web technologies
+* Experience working in an agile team
+* Experience working with clients and overall great communication skills
 
 ## What we give you
 
-* Competative Salary - D.O.E
+* Competitive Salary - D.O.E
 * Your own MacBook Pro
 * Flexible working hours
 * Home working
+* Freedom to get shit done!
 
 So if you think you could do with a new challenge, or just want to ask a question. Reach out to me at <a href="mailto:luke@spacebetween.io">luke@spacebetween.io</a>.
 
