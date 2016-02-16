@@ -14,7 +14,7 @@ We're getting busy so we're looking for another great person to join our team.
 
 We believe that to achieve brilliance, you need a brilliant team. We're looking for a front-end developer who's ready to grow with our business. Working closely with every member of the Space Between team, this role comes with room to learn and teach.
 
-Our current tech bread and butter consists of; Angular.JS, Azure, AWS, .NET, Umbraco, Git not forgetting JavaScript, HTML & CSS.
+Our current tech bread and butter consists of: Angular.JS, Azure, AWS, .NET, Umbraco, Git not forgetting JavaScript, HTML & CSS.
 
 We're up for using the best tech to solve the problem, so we're all for hearing what you've been working with.
 
