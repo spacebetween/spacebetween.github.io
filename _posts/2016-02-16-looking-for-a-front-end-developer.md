@@ -22,7 +22,7 @@ We're up for using the best tech to solve the problem, so we're all for hearing 
 
 We're happy hearing from people at any stage of their front-end development career, from junior to master. Our only expectation is you have a passion for what you do.
 
-Apart from that, bonus's would be:
+Apart from that, bonuses would be:
 
 * Experience with front-end frameworks
 * Experience with app development, React Native, Cordova etc

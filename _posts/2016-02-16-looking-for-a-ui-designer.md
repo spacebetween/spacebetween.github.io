@@ -18,7 +18,7 @@ We believe that to achieve brilliance, you need a brilliant team. We're looking 
 
 We're happy hearing from people at any stage of their design career, from junior to master. Our only expectation is you have a passion for what you do.
 
-Apart from that, bonus's would be:
+Apart from that, bonuses would be:
 
 * Experience with wireframing websites
 * Experience with working mobile first
