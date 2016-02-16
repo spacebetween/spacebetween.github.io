@@ -5,7 +5,7 @@ date:           2016-02-08
 author_id:      "luke_frake"
 description:    "We're looking for a front-end developer"
 categories:     space between
-banner:         "/assets/images/build.jpg"
+banner:         "/assets/images/blog/question.jpg"
 ---
 
 We're getting busy so we're looking for another great person to join our team.

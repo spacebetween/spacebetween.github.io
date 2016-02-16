@@ -1,0 +1,53 @@
+.card {
+	@include display(flex);
+	@include align-items( flex-end );
+	@include flex-direction( column );
+	margin: 1rem 0;
+	&_inner {
+		@include flex-grow( 1 );
+		background: $lighter-black;
+		padding-bottom: 1rem;
+		padding-top: 7rem;
+		&-banner {
+			padding-top: 0;
+			position: relative;
+			.card {
+				&_header {
+					position: absolute;
+					top: 155px;
+					margin: 0;
+				}
+				&_break {
+					margin-top: 0;
+				}
+			}
+		}
+	}
+	&_header {
+		font-weight: 800;
+	}
+	&_break {
+		border: 0;
+		background-color: $secondary-color;
+		height: 10px;
+		margin: 0.5rem 0;
+	}
+	&_link {
+		width: 100%;
+		display: inline-block;
+	}
+	&_info {
+		margin: 0;
+		min-height: 5rem;
+	}
+	&_info,
+	&_link {
+		@extend small;
+	}
+	&_info,
+	&_header,
+	&_link {
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}
+}

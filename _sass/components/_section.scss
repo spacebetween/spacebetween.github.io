@@ -1,4 +1,15 @@
 .section {
 	background: $body-background;
 	padding: 1rem 0;
+	&-padded {
+		padding: 3rem 0;
+	}
+}
+
+@media ( min-width: $screen-medium ) {
+	.section {
+		&-padded {
+			padding: 7rem 0;
+		}
+	}
 }

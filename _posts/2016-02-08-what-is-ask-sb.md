@@ -25,7 +25,7 @@ We don't mind what these questions are. So please:
 * Ask us how to use social media.
 * Ask us... just about anything you want!
 
-We're going to answer these questions as long as people keep answering them. So please, ask us using the comments or #AskSB.
+We're going to answer these questions as long as people keep asking them. So please, ask us using the comments or #AskSB.
 
 With love,<br/>
 Space Between Team.
