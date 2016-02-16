@@ -37,7 +37,7 @@ Apart from that, bonuses would be:
 * Your own MacBook Pro
 * Flexible working hours
 * Home working
-* Freedom to get shit done!
+* Freedom to get stuff done!
 
 So if you think you could do with a new challenge, or just want to ask a question. Reach out to me at <a href="mailto:luke@spacebetween.io">luke@spacebetween.io</a>.
 
