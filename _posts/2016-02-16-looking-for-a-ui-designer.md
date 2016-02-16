@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "We want a UI designer"
+title:          "We're after a UI designer"
 date:           2016-02-08
 author_id:      "luke_frake"
 description:    "We're looking for a UI designer"
@@ -26,7 +26,7 @@ Apart from that, bonuses would be:
 * Experience working in an agile team
 * Experience working with clients and overall great communication skills
 
-## What we give you
+## What we offer
 
 * Competitive Salary - D.O.E
 * Your own MacBook Pro
@@ -34,7 +34,7 @@ Apart from that, bonuses would be:
 * Home working
 * Freedom to get stuff done!
 
-So if you think you could do with a new challenge, or just want to ask a question. Reach out to me at <a href="mailto:luke@spacebetween.io">luke@spacebetween.io</a>.
+So if you think you could do with a new challenge, or just want to ask a question. Reach out to me at <a href="mailto:luke@spacebetween.io">luke@spacebetween.io</a> or call on <a href="tel:01233 800991">01233 800991</a>.
 
 Look forward to speaking with you!
 
