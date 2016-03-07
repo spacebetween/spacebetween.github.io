@@ -32,6 +32,4 @@ We understand your time is precious, but if you do feel like going that extra mi
 
 We'd like to see how you write code so try to keep it simple, but don't be afraid to add some flair to show off what you can do. Ideally you would upload your repository (to GitHub or similar) so that we can have a poke around.
 
-We're looking forward to seeing what you produce! Thanks for your time.
-
-This task was heavily influenced from great guys at <a href="https://p.ota.to/" target="_blank">Potato</a>
+We're looking forward to seeing what you produce! Thanks for your time. This task was heavily influenced from great guys at <a href="https://p.ota.to/" target="_blank">Potato</a>
