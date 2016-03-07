@@ -5,7 +5,7 @@ description: Front-end Task
 sitemap: false
 ---
 
-#Front End Task
+# Front End Task
 
 If you've been sent this link then we would like to better understand how you work, to do this we'd like you to undertake a small assignment.
 
