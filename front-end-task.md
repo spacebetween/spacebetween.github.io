@@ -11,7 +11,7 @@ If you've been sent this link then we would like to better understand how you wo
 
 At Space Between, we use a variety of front end technologies to develop rich and responsive interfaces and have developed an assignment to help us assess a candidate's abilities in this broad discipline.
 
-The task is to consume a public [JSON API Feed](https://api.flickr.com/services/feeds/photos_public.gne?tags=space&tagmode=all&format=json) ([documentation](https://www.flickr.com/services/feeds/docs/photos_public/)) and display the resulting data according to these annotated wireframes - <a href="/assets/images/task/feDevTask-under800px.png" target="_blank" download>under 800px</a> and <a href="/assets/images/task/feDevTask-under800px.png" target="_blank" download>over 800px</a>.
+The task is to consume a public [JSON API Feed](https://api.flickr.com/services/feeds/photos_public.gne?tags=space&tagmode=all&format=json) ([documentation](https://www.flickr.com/services/feeds/docs/photos_public/)) and display the resulting data according to these annotated wireframes - <a href="/assets/images/task/feDevTask-under800px.png" target="_blank" download>under 800px</a> and <a href="/assets/images/task/feDevTask-over800px.png" target="_blank" download>over 800px</a>.
 
 It should only take a few hours and there's no deadline. You won't be judged on the completion time, so there's no rush, just let us know once it's completed.
 
