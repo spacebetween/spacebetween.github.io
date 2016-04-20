@@ -3,7 +3,7 @@ layout:         post
 title:          "Investment Time at Space Between"
 date:           2016-04-20
 author_id:      "luke_frake"
-description:    "We've launched Investment Time"
+description:    "We're super excited to announce the launch of Investment Time. Our regular R&D time for all of the Space Between team!"
 categories:     space between
 banner:         "/assets/images/blog/clock.jpg"
 ---
@@ -15,7 +15,7 @@ We work in an industry where people are so passionate about what they do, they o
 	<cite>Heraclitus</cite>
 </blockquote>
 
-This involves us investing paid working hours into our employees, for them to use to better themselves.
+That's why we're super excited to announce that we are going to offer every member of the Space Between team bi-weekly R&D time. The idea is that we invest paid working hours into our employees, for them to use to better themselves.
 
 This isn't a breakthrough in the industry and we're absolutely not the first to do this, Thought Bot sets aside time for <a href="https://playbook.thoughtbot.com/#investment">investment</a>, Atlassian has <a href="https://www.atlassian.com/company/shipit" target="_blank">Shipit days</a>, in fact, I wrote about the value of R&amp;D time while at <a href="http://hungrygeek.holidayextras.co.uk/2015/03/09/how-we-do-r-and-d-time-at-holiday-extras/" target="_blank">Holiday Extras</a>.
 
