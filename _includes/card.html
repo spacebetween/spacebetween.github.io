@@ -1,7 +1,7 @@
 <div class="card columns small-12 medium-{{include.mediumSize | default: "4"}}">
-	<div class="card_inner {% if include.image %}card_inner-banner{% endif %}">
+	<div class="card_inner {% if include.image %}card_inner-banner revealImage{% endif %}">
 		{% if include.image %}
-			<a class="banner anchor anchor-bland" 
+			<a class="banner anchor anchor-bland revealImage_target" 
 			href="{{ post.link | prepend: site.baseurl }}"
 			style="background-image: url('{{ include.image }}');">&nbsp;</a>
 		{% endif %}

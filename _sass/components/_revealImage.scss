@@ -1,0 +1,15 @@
+.revealImage {
+	&_target {
+		opacity: 0.7;
+		transition: all 0.35s;
+		-webkit-filter: grayscale(100%);
+	}
+	&:hover {
+		.revealImage {
+			&_target {
+				opacity: 0.9;
+				-webkit-filter: grayscale(40%);
+			}
+		}
+	}
+}
