@@ -13,7 +13,7 @@ redirect_from:
 
 ### Salary: £18,000 - £25,000
 
-### Location: Ashford
+### Location: Ashford, Kent
 
 We're looking for knowledgeable developers to work with us in our office in Ashford, developing web solutions using modern web technologies.
 
