@@ -2,7 +2,7 @@
 	<div class="card_inner {% if include.image %}card_inner-banner revealImage{% endif %}">
 		{% if include.image %}
 			<a class="banner anchor anchor-bland revealImage_target" 
-			href="{{ post.link | prepend: site.baseurl }}"
+			href="{{include.link}}"
 			style="background-image: url('{{ include.image }}');">&nbsp;</a>
 		{% endif %}
 		<h4 class="card_header">{{include.header}}</h4>
