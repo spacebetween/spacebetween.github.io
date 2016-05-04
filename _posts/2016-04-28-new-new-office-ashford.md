@@ -10,7 +10,7 @@ banner:         "/assets/images/blog/bookshelf.jpg"
 
 So we're getting bigger, which is great. We're on the hunt for new developers to join our expanding team and as we're growing we had to vacate our old office in search of something, well, bigger!
 
-Luckily the lovely Ceders building in Ashford, Kent which we've become all too attached too had a bigger room available. We assume we're going to remain here for a little while now, so we got the painters in and have got a bit more furniture to make it feel like our own.
+Luckily the lovely Ceders building in Ashford, Kent which we've become all too attached to had a bigger room available. We assume we're going to remain here for a little while now, so we got the painters in and have got a bit more furniture to make it feel like our own.
 
 <img src="/assets/images/blog/office-1.jpg" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
 

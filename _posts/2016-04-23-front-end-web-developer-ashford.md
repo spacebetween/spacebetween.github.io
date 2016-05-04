@@ -19,7 +19,7 @@ We're looking for knowledgeable developers to work with us in our office in Ashf
 
 This role will see you leading the technical aspects of a project with our friendly, expert team. We work hard and keep our clients happy, whilst maintaining a positive and proactive atmosphere. Our aim is to give you the resources you need to write and deploy the best code that you can.
 
-There is plenty of technical jargon in here, but fundamentally we're looking for smart people who are driven by the joy of learning new things and poses the required communication skills to be able to explain them to our clients.
+There is plenty of technical jargon in here, but fundamentally we're looking for smart people who are driven by the joy of learning new things and possess the required communication skills to be able to explain them to our clients.
 
 As well as the required technical know-how, we want to work with people who understand development - people who can figure things out by themselves but know when to ask for help. Taking difficult and challenging problems and turning them into straightforward, understandable solutions.
 
