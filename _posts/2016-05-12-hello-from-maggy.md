@@ -1,9 +1,9 @@
 ---
 layout:         post
-title:          "Hello..  from Maggy!"
+title:          "Hello... from Maggy!"
 date:           2016-05-12
 author_id:      "maggy_burns"
-description:    "Hey!"
+description:    "Hello! I am very very happy to introduce myself as the new junior front end developer for Space Between!"
 categories:     space between
 banner:         "/assets/images/blog/maggyblogbanner.jpg"
 ---
