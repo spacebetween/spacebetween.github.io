@@ -12,7 +12,7 @@ description: We're very proud of our team, come and take a look a them.
 			{% if person.name and person.title and person.blurb and person.photo %}
 				<li class="row article_row">
 					<div class="columns small-12 medium-6">
-						<img class="article_image " src="https://www.gravatar.com/avatar/{{ person.photo }}?s=100" alt="Image of {{ person.name }}" title="Headshot of {{ person.name }}">
+						<img class="article_image" src="https://www.gravatar.com/avatar/{{ person.photo }}?s=100" alt="Image of {{ person.name }}" title="Headshot of {{ person.name }}">
 						<div class="article_information ">
 							<p>{{ person.name }} - <span class="article_description">{{ person.title }}</span></p>
 							{% if {{person.twitter}} %}
