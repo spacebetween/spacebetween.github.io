@@ -11,9 +11,9 @@ description: We're very proud of our team, come and take a look a them.
 			{% assign person = people[1][0] %}
 			{% if person.name and person.title and person.blurb and person.photo %}
 				<li class="row article_row">
-					<div class="columns small-12 medium-6">
-						<img class="article_image" src="https://www.gravatar.com/avatar/{{ person.photo }}?s=100" alt="Image of {{ person.name }}" title="Headshot of {{ person.name }}">
-						<div class="article_information">
+					<div class="columns row small-12 medium-6">
+						<img class="article_image columns small-5" src="https://www.gravatar.com/avatar/{{ person.photo }}?s=100" alt="Image of {{ person.name }}" title="Headshot of {{ person.name }}">
+						<div class="article_information columns">
 							<p>{{ person.name }} - <span class="article_description">{{ person.title }}</span></p>
 							{% if {{person.twitter}} %}
 								<a href="https://twitter.com/{{ person.twitter }}" class="article_twitter twitter-follow-button" data-show-count="false">Follow @{{ person.twitter }}</a>
