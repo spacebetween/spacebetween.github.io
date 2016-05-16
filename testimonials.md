@@ -37,7 +37,7 @@ description: We're very proud of what people have to say about us
 		<blockquote>
 			Just to say again how delighted I am with the new websites and they seem to be popular with guests as well.
 			<cite>
-				<a href="http://7longport.co.uk/" target="_blank">Ursula Wacher, Owner at 7Longport</a>
+				<a href="http://7longport.co.uk/" target="_blank">Ursula Wacher, Owner at 7 Longport &amp; Fern Cottage</a>
 			</cite>
 		</blockquote>
 	</div>
