@@ -33,6 +33,13 @@ description: We're very proud of what people have to say about us
 				<a href="http://www.hrgoplc.co.uk/" target="_blank">Roddy Barrow, Chief Financial Officer at HR GO plc</a>
 			</cite>
 		</blockquote>
+
+		<blockquote>
+			Just to say again how delighted I am with the new websites and they seem to be popular with guests as well.
+			<cite>
+				<a href="http://7longport.co.uk/" target="_blank">Ursula Wacher, Owner at 7Longport</a>
+			</cite>
+		</blockquote>
 	</div>
 
 </div>
