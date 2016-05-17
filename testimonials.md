@@ -40,6 +40,13 @@ description: We're very proud of what people have to say about us
 				<a href="http://7longport.co.uk/" target="_blank">Ursula Wacher, Owner at 7 Longport &amp; Fern Cottage</a>
 			</cite>
 		</blockquote>
+
+		<blockquote>
+			It has been an absolute pleasure to work with Space Between, they went above and beyond to make sure that we felt comfortable and confident with the service that we wanted. From the word go they made sure all our needs were fulfilled and if we needed any extra help with question answering or task’s that it wasn’t an issue and they made it seem effortless. I would recommend Space Between to anyone I come across, and be sure that without a shadow of a doubt that they would deliver an unforgettable service.
+			<cite>
+				<a href="http://www.qualified2work.co.uk/" target="_blank">Chris Wall Manging Director &amp; Alex Gotts Head of Marketing at Qualified 2 Work</a>
+			</cite>
+		</blockquote>
 	</div>
 
 </div>
