@@ -47,6 +47,12 @@ description: We're very proud of what people have to say about us
 				<a href="http://www.qualified2work.co.uk/" target="_blank">Chris Wall Manging Director &amp; Alex Gotts Head of Marketing at Qualified 2 Work</a>
 			</cite>
 		</blockquote>
+		<blockquote>
+			The guys at space I between went far out of their way to research &amp; understand my business long before they started work on our new site. They took what they learned &amp; applied it superbly integrating all my social media into the new site. Now the site is built they are always happy to help &amp; advise on capitalising on the features they built into the site &amp; on how to optimise my posts. They've done me proud.
+			<cite>
+				<a href="http://www.astraldesign.co.uk/" target="_blank">James Waudby Creative Director at Astral Design</a>
+			</cite>
+		</blockquote>
 	</div>
 
 </div>
