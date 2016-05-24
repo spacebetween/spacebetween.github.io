@@ -21,7 +21,7 @@ BEM is a strict way of arranging your CSS into independent and informative modul
 .block__element{}
 .block--modifier{}
 ```
-
+ 
 A block represent an object on your website, and could be a form, header, or navbar for example.
 A block element represents a descendant of your block and is indicated by beginning with a double underscore ‘__ ‘. Elements are what make up your block, and so can be buttons, textboxes or media items.
 A  modifier is a different version of your element or block and is indicated by double hyphen ‘--’. It could be something like --blue that would give a style like background-color: blue. It’ll indicate that the object would be blue (yes, really!). It can also identify states like booleans, or values like bold, normal or thin for properties like font weight.
