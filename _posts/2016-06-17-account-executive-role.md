@@ -26,12 +26,12 @@ Quality assurance on projects
 ### We're looking for
 An account executive or manager to be based in our Ashford office, but happy to have some travel across Kent & London as required to meet with clients.
 Experience of account management - we're open to meeting people with at least six months experience in account management from another web agency. This could mean you're an account exec looking for the next step up in your career, or an experienced account manager wanting to work in a new business in an exciting phase of growth.
-We want people with a proven track records working in sales, experience meeting new people and making great connections.
+We want people with a proven track record working in sales, experience meeting new people and making connections.
 Someone who shares passion for high quality digital work and has a strong collaborative and energetic ethos.
 
 
 ### In return, you'll get...
-Negotiable commission<br/>
+Attractive commission structure<br/>
 R&D time every fortnight<br/>
 A fun and supportive working environment<br/>
 Your own Macbook<br/>
