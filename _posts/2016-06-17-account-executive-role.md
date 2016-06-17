@@ -3,7 +3,7 @@ layout:         post
 title:          "Recruiting an Account Executive / Manager role in Ashford"
 date:           2016-04-23
 author_id:      "luke_frake"
-description:    "Space Between are looking to recruit a Front-end Developer to join their growing team in Ashford, Kent"
+description:    "Space Between are looking to recruit a Account Executive / Manger to join their growing team in Ashford, Kent"
 categories:     space between
 banner:         "/assets/images/blog/macbook.jpg"
 ---
