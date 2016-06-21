@@ -23,10 +23,10 @@ Experience leading a team of software developers
 Significant software engineering experience
 Deep knowledge of one mainstream programming language (C#, Java, Python, Ruby)
 Deep familiarity with Javascript and at least one JS framework (Angular, Ember, Om, React)
-Experience with JSON API including structure and standards
 Interest in or experience with functional programming (Clojure, Haskell, OCaml, Scala )
 Familiarity with SQL
 Experience in API Design
+Expereince in Web API
 Familiarity with cloud platforms (AWS, Azure)
 Familiarity with an agile development process and modern software engineering (testing, automation, devops).
 Ability to hold your own with HTML, CSS and JavaScript
