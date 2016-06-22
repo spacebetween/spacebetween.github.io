@@ -38,4 +38,4 @@ This is a senior role — requiring an understanding of business.
 * Flexible working hours
 
 ### Applying...
-Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too. 
+Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.
