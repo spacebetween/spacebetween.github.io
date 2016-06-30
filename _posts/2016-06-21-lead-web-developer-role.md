@@ -8,28 +8,36 @@ categories:     space between
 banner:         "/assets/images/blog/macbook.jpg"
 ---
 
-### Salary: DOE
+### Salary: £28,000 - £40,000 DOE
 
 ### Location: Ashford, Kent
 
 ### What will you be doing?
 
-We're looking for an experienced web developer to join our expanding team, somebody with the experience to lead the team. You'll not only be given great opportunities to learn new technologies, but you'll be given the freedom to make it happen.
+We're looking for an experienced web developer, with experience in managing development teams, to help in our rapid growth. You'll not only be given great opportunities to learn new technologies, but you'll be influencing the shape of client work and the technical strategy of the agency going forward.
 
-This is a senior role — requiring an understanding of business.
+This is a senior role — requiring an interest in business, leadership and management.
 
 ### We're looking for
 * Experience leading a team of software developers
 * Significant software engineering experience
-* Deep knowledge of one mainstream programming language (C#, Java, Python, Ruby)
-* Deep familiarity with Javascript and at least one JS framework (Angular, Ember, Om, React)
-* Interest in or experience with functional programming (Clojure, Haskell, OCaml, Scala )
-* Familiarity with SQL
-* Experience in API Design
-* Expereince in Web API
-* Familiarity with cloud platforms (AWS, Azure)
-* Familiarity with an agile development process and modern software engineering (testing, automation, devops).
-* Ability to hold your own with HTML, CSS and JavaScript
+* Deep knowledge of one mainstream web development framework:
+	- C# (ASP.NET MVC, Entity Framework, Web API)
+	- Java (Spring MVC)
+	- Python (Django / Flask)
+	- Ruby (Rails)
+* Deep familiarity with Javascript and at least one JS framework:
+	- Angular
+	- Ember
+	- React
+* Familiarity with databases:
+	- SQL
+	- MSSQL
+	- PostgreSQL
+* Experience building and securing APIs and web services
+* Familiarity with infrastructure-as-a-service platforms (AWS, Azure)
+* Familiarity with an agile development process and modern software engineering (testing, automation, devops)
+* Ability to hold your own with HTML and CSS
 
 ### In return, you'll get...
 * R&D time every fortnight
