@@ -8,7 +8,7 @@ categories:     space between
 banner:         "/assets/images/blog/macbook.jpg"
 ---
 
-### Salary: £28,000 - £40,000 DOE
+### Salary: £30,000 - £40,000 DOE
 
 ### Location: Ashford, Kent
 
@@ -26,18 +26,15 @@ This is a senior role — requiring an interest in business, leadership and mana
 	- Java (Spring MVC)
 	- Python (Django / Flask)
 	- Ruby (Rails)
-* Deep familiarity with Javascript and at least one JS framework:
-	- Angular
-	- Ember
-	- React
-* Familiarity with databases:
-	- SQL
-	- MSSQL
-	- PostgreSQL
+* Familiarity with SQL and at least one mainstream database management system:
+	- MySQL
+	- MS SQL
+	- Postgres
+* Experience working on large Javascript applications
 * Experience building and securing APIs and web services
 * Familiarity with infrastructure-as-a-service platforms (AWS, Azure)
 * Familiarity with an agile development process and modern software engineering (testing, automation, devops)
-* Ability to hold your own with HTML and CSS
+* Ability to write HTML and CSS
 
 ### In return, you'll get...
 * R&D time every fortnight
@@ -46,4 +43,4 @@ This is a senior role — requiring an interest in business, leadership and mana
 * Flexible working hours
 
 ### Applying...
-Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.
+Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io" target="_blank">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.
