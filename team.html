@@ -4,30 +4,74 @@ title: Meet The Space Between Team
 description: We're very proud of our team, come and take a look a them.
 ---
 
-<div class="row"> 
+<style>
+	.fancyItem {
+		position: relative;
+		overflow: hidden;
+		height: 400px;
+	}
+	.fancyItem:after {
+		position: absolute;
+		bottom: 0;
+		left: 15px;
+		right: 15px;
+		height: 10px;
+		background: #29abe2;
+		content: '';
+		transform: translate3d(0, 11px, 0);
+		transition: all 0.7s;
+	}
+	.fancyItem_image {
+		-webkit-filter: grayscale(0);
+		filter: grayscale(0);
+		background-size: cover;
+		height: 100%;
+		width: 100%;
+		transition: all 0.7s;
+	}
+	.fancyItem_content {
+		position: absolute;
+		bottom: -100px;
+		transition: all 0.7s ease 0s;
+		opacity: 0;
+		left: 15px;
+		right: 15px;
+		padding: 10px;
+	}
+	.fancyItem:hover .fancyItem_image {
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+		opacity: 0.1;
+	}
+	.fancyItem:hover:after {
+		bottom: 10px;
+	}
+	.fancyItem:hover .fancyItem_content {
+		bottom: 0;
+		opacity: 1;
+	}
+</style>
 
-	<ul class="article center columns medium-10 large-8">
-		{% for people in site.data.team %}
-			{% assign person = people[1][0] %}
-			{% if person.name and person.title and person.blurb and person.photo %}
-				<li class="row article_row">
-					<div class="columns small-12 medium-6">
-						<img class="article_image" src="https://www.gravatar.com/avatar/{{ person.photo }}?s=100" alt="Image of {{ person.name }}" title="Headshot of {{ person.name }}">
-						<div class="article_information ">
-							<p>{{ person.name }} - <span class="article_description">{{ person.title }}</span></p>
-							{% if {{person.twitter}} %}
-								<a href="https://twitter.com/{{ person.twitter }}" class="article_twitter twitter-follow-button" data-show-count="false">Follow @{{ person.twitter }}</a>
-							{% endif %}
-						</div>
-					</div>
-					<div class="columns small-12 medium-6">
-						<p>{{ person.blurb }}</p>
-					</div>
-				</li>
-			{% endif %}
-		{% endfor %}
-	</ul>
+<h1 class="row column">The Team</h1>
 
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<p class="row column">Our passion is you</p>
 
-</div>
+<ul class="row column">
+	{% for people in site.data.team %}
+		{% assign person = people[1][0] %}
+		{% if person.name and person.title and person.blurb and person.photo %}
+			<li class="columns small-12 medium-4 fancyItem">
+				<div class="fancyItem_image" style="background-image: url( 'https://www.gravatar.com/avatar/{{ person.photo }}?s=300' )"></div>
+				<div class="fancyItem_content">
+					<p>{{ person.name }} - <span class="highlight">{{ person.title }}</span></p>
+					<p>{{ person.blurb }}</p>
+					{% if {{person.twitters}} %}
+						<a href="https://twitter.com/{{ person.twitter }}" class="article_twitter twitter-follow-button" data-show-count="false">Follow @{{ person.twitter }}</a>
+					{% endif %}
+				</div>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
