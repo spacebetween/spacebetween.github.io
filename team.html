@@ -4,54 +4,6 @@ title: Meet The Space Between Team
 description: We're very proud of our team, come and take a look a them.
 ---
 
-<style>
-	.fancyItem {
-		position: relative;
-		overflow: hidden;
-		height: 400px;
-	}
-	.fancyItem:after {
-		position: absolute;
-		bottom: 0;
-		left: 15px;
-		right: 15px;
-		height: 10px;
-		background: #29abe2;
-		content: '';
-		transform: translate3d(0, 11px, 0);
-		transition: all 0.7s;
-	}
-	.fancyItem_image {
-		-webkit-filter: grayscale(0);
-		filter: grayscale(0);
-		background-size: cover;
-		height: 100%;
-		width: 100%;
-		transition: all 0.7s;
-	}
-	.fancyItem_content {
-		position: absolute;
-		bottom: -100px;
-		transition: all 0.7s ease 0s;
-		opacity: 0;
-		left: 15px;
-		right: 15px;
-		padding: 10px;
-	}
-	.fancyItem:hover .fancyItem_image {
-		-webkit-filter: grayscale(100%);
-		filter: grayscale(100%);
-		opacity: 0.1;
-	}
-	.fancyItem:hover:after {
-		bottom: 10px;
-	}
-	.fancyItem:hover .fancyItem_content {
-		bottom: 0;
-		opacity: 1;
-	}
-</style>
-
 <h1 class="row column">The Team</h1>
 
 <p class="row column">Our passion is you</p>
