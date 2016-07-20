@@ -1,11 +1,15 @@
 <div class="card columns small-12 medium-{{include.mediumSize | default: "4"}}">
 	<div class="card_inner {% if include.image %}card_inner-banner revealImage{% endif %}">
 		{% if include.image %}
-			<a class="banner anchor anchor-bland revealImage_target" 
-			href="{{include.link}}"
-			style="background-image: url('{{ include.image }}');">&nbsp;</a>
+			<div class="card_banner">
+				<a class="banner anchor anchor-bland revealImage_target" 
+				href="{{include.link}}"
+				style="background-image: url('{{ include.image }}');">&nbsp;</a>
+				<h4 class="card_header card_header-bottom">{{include.header}}</h4>
+			</div>
+		{% else %}
+			<h4 class="card_header">{{include.header}}</h4>
 		{% endif %}
-		<h4 class="card_header">{{include.header}}</h4>
 		<hr class="card_break">
 		<p class="card_info">
 			{{include.info}}

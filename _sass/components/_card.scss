@@ -9,22 +9,23 @@
 		padding-bottom: 1rem;
 		padding-top: 7rem;
 		&-banner {
-			padding-top: 0;
-			position: relative;
+			padding: 0;
 			.card {
-				&_header {
-					position: absolute;
-					top: 155px;
-					margin: 0;
-				}
 				&_break {
 					margin-top: 0;
 				}
 			}
 		}
 	}
+	&_banner {
+		position: relative;
+	}
 	&_header {
 		font-weight: 800;
+		&-bottom {
+			position: absolute;
+			bottom: 0;
+		}
 	}
 	&_break {
 		border: 0;
