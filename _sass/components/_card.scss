@@ -5,6 +5,8 @@
 	margin: 1rem 0;
 	&_inner {
 		@include flex-grow( 1 );
+		@include display(flex);
+		@include flex-direction( column );
 		background: $lighter-black;
 		padding-bottom: 1rem;
 		padding-top: 7rem;
@@ -36,6 +38,7 @@
 	&_link {
 		width: 100%;
 		display: inline-block;
+		margin: auto 0;
 	}
 	&_info {
 		margin: 0;
