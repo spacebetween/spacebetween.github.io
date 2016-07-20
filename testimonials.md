@@ -6,13 +6,13 @@ description: We're very proud of what people have to say about us
 
 <div class="row">
 
-	<div class="columns small-8">
+	<div class="columns small-12 medium-8">
 		<h2>Testimonials</h2>
 		<p>We're so proud of the work we do with our clients, it makes us super excited that we get work with each and every one of them.</p>
 		<p>We're also so proud of the kind words they have to say about us in return:</p>
 	</div>
 
-	<div class="columns small-8">
+	<div class="columns small-12 medium-8">
 		<blockquote>
 			We asked Space Between to redesign and rebuild our old website. Due to their thorough discovery phase, they knew our business and customers inside out. They delivered this on a budget, on time and to an extremely high standard. Their drive and passion exceed that of any other agency I’ve worked with and I wholeheartedly recommend them.
 			<cite>
