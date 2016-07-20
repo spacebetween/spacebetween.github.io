@@ -23,3 +23,9 @@ blockquote {
 	margin: 0;
 	line-height: 1;
 }
+
+@media ( min-width: $screen-medium ) {
+	.medium-skinnyText {
+		font-weight: 100;
+	}
+}
