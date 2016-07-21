@@ -5,26 +5,29 @@
 	margin: 1rem 0;
 	&_inner {
 		@include flex-grow( 1 );
+		@include display(flex);
+		@include flex-direction( column );
 		background: $lighter-black;
 		padding-bottom: 1rem;
 		padding-top: 7rem;
 		&-banner {
-			padding-top: 0;
-			position: relative;
+			padding: 0;
 			.card {
-				&_header {
-					position: absolute;
-					top: 155px;
-					margin: 0;
-				}
 				&_break {
 					margin-top: 0;
 				}
 			}
 		}
 	}
+	&_banner {
+		position: relative;
+	}
 	&_header {
 		font-weight: 800;
+		&-bottom {
+			position: absolute;
+			bottom: 0;
+		}
 	}
 	&_break {
 		border: 0;
@@ -35,6 +38,7 @@
 	&_link {
 		width: 100%;
 		display: inline-block;
+		margin: auto 0 0;
 	}
 	&_info {
 		margin: 0;

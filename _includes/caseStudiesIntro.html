@@ -1,14 +1,8 @@
 <div class="section row">
 	<h2 class="columns small-12">Who we've done it for</h2>
 	{% for work in site.caseStudies %}
-		{% if work.published == true %}
-			<figure class="columns small-12 medium-6 tile tile-honey revealImage">
-				<img class="revealImage_target"src="{{work.thumbnail}}" alt="Picture of {{ work.title }}" title="Picture of {{ work.title }}" class="tile_image"/>
-				<figcaption class="tile_caption">
-					<h2 class="tile_title">{{ work.intro }} <i class="tile_i fa fa-angle-right"></i></h2>
-					<a href="{{work.url}}" class="tile_anchor">View more</a>
-				</figcaption>
-			</figure>
+		{% if work.sitemap != false %}
+			{% include card.html header=work.name info=work.intro link=work.url image=work.thumbnail mediumSize="6" %}
 		{% endif %}
 	{% endfor %}
 </div>
