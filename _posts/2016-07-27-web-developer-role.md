@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Recruiting a Web Developer"
-date:           2016-06-21
+date:           2016-07-27
 author_id:      "luke_frake"
 description:    "Space Between are looking to recruit a Lead Web Developer"
 categories:     space between
