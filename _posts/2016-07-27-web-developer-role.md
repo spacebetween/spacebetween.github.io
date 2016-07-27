@@ -1,11 +1,13 @@
 ---
 layout:         post
-title:          "Recruiting a Lead Web Developer"
+title:          "Recruiting a Web Developer"
 date:           2016-06-21
 author_id:      "luke_frake"
 description:    "Space Between are looking to recruit a Lead Web Developer"
 categories:     space between
 banner:         "/assets/images/blog/macbook.jpg"
+redirect_from:
+  - space/between/2016/06/21/lead-web-developer-role.html
 ---
 
 ### Salary: £30,000 - £40,000 DOE
@@ -14,14 +16,11 @@ banner:         "/assets/images/blog/macbook.jpg"
 
 ### What will you be doing?
 
-We're looking for an experienced web developer, with experience in managing development teams, to help in our rapid growth. You'll not only be given great opportunities to learn new technologies, but you'll be influencing the shape of client work and the technical strategy of the agency going forward.
-
-This is a senior role — requiring an interest in business, leadership and management.
+We're looking for an experienced web developer to help in our rapid growth. You'll not only be given great opportunities to learn new technologies, but you'll be influencing the shape of client work and the technical strategy of the agency going forward.
 
 ### We're looking for
-* Experience leading a team of software developers
 * Significant software engineering experience
-* Deep knowledge of one mainstream web development framework:
+* Knowledge of one mainstream web development framework:
 	- C# (ASP.NET MVC, Entity Framework, Web API)
 	- Java (Spring MVC)
 	- Python (Django / Flask)
