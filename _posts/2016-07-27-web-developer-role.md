@@ -8,6 +8,7 @@ categories:     space between
 banner:         "/assets/images/blog/macbook.jpg"
 redirect_from:
   - space/between/2016/06/21/lead-web-developer-role.html
+  - space/between/2016/04/23/front-end-web-developer-ashford.html
 ---
 
 ### Salary: £30,000 - £40,000 DOE
