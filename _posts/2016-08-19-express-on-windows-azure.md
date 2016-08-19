@@ -43,11 +43,11 @@ info:    Executing command login
 </code></pre>
 <br>
 Visit the page in your browser
-<img src="/assets/images/blog/azure1.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure1.png" alt="A screenshot of a page requesting a code given by the Azure CLI" class="img img-vMargin">
 Enter the code given to you in the command prompt
-<img src="/assets/images/blog/azure2.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure2.png" alt="A screenshot of a page requesting a username and password" class="img img-vMargin">
 Enter your username and password.
-<img src="/assets/images/blog/azure3.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure3.png" alt="A screenshot of a page showing a successful login attempt" class="img img-vMargin">
 Success!
 <pre><code class="Bash">
 $ azure login
@@ -115,7 +115,7 @@ $ open http://localhost:3000
 </code></pre>
 <br>
 
-<img src="/assets/images/blog/azure4.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure4.png" alt="A screenshot of a working local epress application" class="img img-vMargin">
 
 #### Deploy the application to Azure App Service
 
@@ -163,11 +163,11 @@ $ git commit -am "empty express project"
 
 Enable local git deployments in the azure portal & set up credentials
 
-<img src="/assets/images/blog/azure5.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure5.png" alt="A screenshot of the panel required to enable git local deployment and set up a username and password" class="img img-vMargin">
 
 Find git url in App Service properties
 
-<img src="/assets/images/blog/azure6.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure6.png" alt="A screenshot showing the git remote url" class="img img-vMargin">
 
 Add Azure remote and push work
 
@@ -215,7 +215,7 @@ $ azure site browse space-between-express-azure
 </code></pre>
 <br>
 
-<img src="/assets/images/blog/azure7.png" alt="A shot of one side of our office where you can see windows, desks and a lovely office space" class="img img-vMargin">
+<img src="/assets/images/blog/azure7.png" alt="A screenshot of an express app loaded" class="img img-vMargin">
 
 #### Summary
 
