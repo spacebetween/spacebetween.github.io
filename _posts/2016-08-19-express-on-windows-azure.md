@@ -42,9 +42,9 @@ info:    Executing command login
 \info:    To sign in, use a web browser to open the page https://aka.ms/devicelogin. Enter the code XXXXXXXX to authenticate.
 </code></pre>
 <br>
-Visit the page in your browser
+Visit the page in your browser.
 <img src="/assets/images/blog/azure1.png" alt="A screenshot of a page requesting a code given by the Azure CLI" class="img img-vMargin">
-Enter the code given to you in the command prompt
+Enter the code given to you in the command prompt.
 <img src="/assets/images/blog/azure2.png" alt="A screenshot of a page requesting a username and password" class="img img-vMargin">
 Enter your username and password.
 <img src="/assets/images/blog/azure3.png" alt="A screenshot of a page showing a successful login attempt" class="img img-vMargin">
@@ -62,7 +62,7 @@ info:    login command OK
 
 #### Creating an express application
 
-Navigate to your 'project' directory and create yourself a shell express application
+Navigate to your 'project' directory and create yourself a shell express application.
 
 <pre><code class="Bash">
 $ express app
@@ -94,21 +94,21 @@ $ express app
 </code></pre>
 <br>
 
-Move to the directory and install the dependencies
+Move to the directory and install the dependencies.
 
 <pre><code class="Bash">
 $ cd app && npm install
 </code></pre>
 <br>
 
-Run the app locally
+Run the app locally.
 
 <pre><code class="Bash">
 $ npm start
 </code></pre>
 <br>
 
-Check it's working
+Check it's working.
 
 <pre><code class="Bash">
 $ open http://localhost:3000
@@ -119,7 +119,7 @@ $ open http://localhost:3000
 
 #### Deploy the application to Azure App Service
 
-Create the App Service with Azure CLI and choose a location
+Create the App Service with Azure CLI and choose a location.
 
 <pre><code class="Bash">
 $ azure site create space-between-express-azure
@@ -152,7 +152,7 @@ info:    site create command OK
 </code></pre>
 <br>
 
-Initialise a git repository, add files & commit changes
+Initialise a git repository, add files & commit changes.
 
 <pre><code class="Bash">
 $ git init
@@ -161,7 +161,7 @@ $ git commit -am "empty express project"
 </code></pre>
 <br>
 
-Enable local git deployments in the azure portal & set up credentials
+Enable local git deployments in the azure portal & set up credentials.
 
 <img src="/assets/images/blog/azure5.png" alt="A screenshot of the panel required to enable git local deployment and set up a username and password" class="img img-vMargin">
 
@@ -169,7 +169,7 @@ Find git url in App Service properties
 
 <img src="/assets/images/blog/azure6.png" alt="A screenshot showing the git remote url" class="img img-vMargin">
 
-Add Azure remote and push work
+Add Azure remote and push work.
 
 <pre><code class="Bash">
 $ git remote add azure https://spacebetweenexpressazure@space-between-express-azure.scm.azurewebsites.net:443/space-between-express-azure.git
