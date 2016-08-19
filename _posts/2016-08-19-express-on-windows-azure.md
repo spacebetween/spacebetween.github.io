@@ -11,7 +11,7 @@ banner:         "/assets/images/blog/azurebg.png"
 
 ### Rapid deployment of node.js applications to Azure App Service
 
-Who says PaaS and managed infrastrucure is restricted to the unix platforms? If you follow a few simple steps you too can deploy a node.js site to azure:
+Who says PaaS and managed infrastrucure is unavailable for windows & azure customers? If you follow a few simple steps you too can deploy a node.js site to azure:
 
 I'm making a couple assumptions here: That you're using unix and you have node.js, npm and express installed, and you've got an azure account set up with an active paid or trial subscription.
 
