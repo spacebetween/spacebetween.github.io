@@ -57,8 +57,15 @@ info:    Executing command login
 info:    Setting subscription "Main" as default
 +
 info:    login command OK
+</code></pre><br>
+
+Now make sure your application is running in Azure Resource Management mode, using V2 of the Azure REST APi. (credit: @lectricemu - Rest Azured - #azure-general-chat)
+<pre><code class="Bash">
+$ azure config mode ARM
+info:    Executing command config mode
+info:    New mode is ARM
+info:    config mode command OK
 </code></pre>
-<br>
 
 #### Creating an express application
 
