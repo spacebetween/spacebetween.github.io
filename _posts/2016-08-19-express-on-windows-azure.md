@@ -11,9 +11,9 @@ banner:         "/assets/images/blog/azurebg.png"
 
 ### Rapid deployment of node.js applications to Azure App Service
 
-Who says PaaS and managed infrastrucure isn't easily available for Windows & Azure customers? If you follow a few simple steps you too can deploy a node.js site to Azure:
+Who says PaaS and managed infrastrucure isn't easily available for Windows & Azure customers? If you follow a few simple steps you too can deploy a node.js site to Azure in minutes!
 
-I'm making a couple assumptions here: That you're using unix and you have node.js, npm and express installed, and you've got an azure account set up with an active paid or trial subscription.
+I'm making a couple assumptions here: That you're using OSX and you have node.js, npm and express installed, and you've got an azure account set up with an active paid or trial subscription.
 
 #### Installing the Azure Command Line tools
 
