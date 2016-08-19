@@ -30,7 +30,7 @@ $ azure -v
 0.10.0
 </code></pre>
 <br>
-The above command should demonstrate that azure as been correctly installed and is now available in the command line.
+The above command should demonstrate that Azure as been correctly installed and is now available in the command line.
 
 #### Logging in!
 
@@ -161,7 +161,7 @@ $ git commit -am "empty express project"
 </code></pre>
 <br>
 
-Enable local git deployments in the azure portal & set up credentials.
+Enable local git deployments in the Azure Portal & set up credentials.
 
 <img src="/assets/images/blog/azure5.png" alt="A screenshot of the panel required to enable git local deployment and set up a username and password" class="img img-vMargin">
 
