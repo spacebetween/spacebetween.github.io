@@ -226,7 +226,7 @@ $ azure site browse space-between-express-azure
 
 #### Summary
 
-My experience with Azure CLI is positive. Those of you familiar with Heroku or EB will notice that there are a couple of extra steps here but the lack of a profile is a nice touch with the App Service using the package.json to determine how to run the application in production.
+My experience with Azure CLI is positive. Those of you familiar with Heroku or EB will notice that there are a couple of extra steps here but the lack of a procfile is a nice touch with the App Service using the package.json to determine how to run the application in production.
 
 
 
