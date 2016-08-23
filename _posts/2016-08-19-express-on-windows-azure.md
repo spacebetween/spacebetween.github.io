@@ -11,7 +11,7 @@ banner:         "/assets/images/blog/azurebg.png"
 
 ### Rapid deployment of node.js applications to Azure App Service
 
-Who says PaaS and managed infrastrucure isn't easily available for Windows & Azure customers? If you follow a few simple steps you too can deploy a node.js site to Azure in minutes!
+Who says PaaS and managed infrastructure isn't easily available for Windows & Azure customers? If you follow a few simple steps you too can deploy a node.js site to Azure in minutes!
 
 I'm making a couple assumptions here: That you're using OSX and you have node.js, npm and express installed, and you've got an azure account set up with an active paid or trial subscription.
 
@@ -122,7 +122,7 @@ $ open http://localhost:3000
 </code></pre>
 <br>
 
-<img src="/assets/images/blog/azure4.png" alt="A screenshot of a working local epress application" class="img img-vMargin">
+<img src="/assets/images/blog/azure4.png" alt="A screenshot of a working local express application" class="img img-vMargin">
 
 #### Deploy the application to Azure App Service
 
@@ -159,7 +159,7 @@ info:    site create command OK
 </code></pre>
 <br>
 
-Initialise a git repository, add files & commit changes.
+Initialize a git repository, add files & commit changes.
 
 <pre><code class="Bash">
 $ git init
@@ -172,9 +172,9 @@ Enable local git deployments in the Azure Portal & set up credentials.
 
 <img src="/assets/images/blog/azure5.png" alt="A screenshot of the panel required to enable git local deployment and set up a username and password" class="img img-vMargin">
 
-Find git url in App Service properties
+Find git URL in App Service properties
 
-<img src="/assets/images/blog/azure6.png" alt="A screenshot showing the git remote url" class="img img-vMargin">
+<img src="/assets/images/blog/azure6.png" alt="A screenshot showing the git remote URL" class="img img-vMargin">
 
 Add Azure remote and push work.
 
@@ -226,7 +226,7 @@ $ azure site browse space-between-express-azure
 
 #### Summary
 
-My experience with Azure CLI is positive. Those of you familiar with heroku or EB will notice that there are a couple of extra steps here but the lack of a procfile is a nice touch with the App Service using the package.json to determine how to run the application in production.
+My experience with Azure CLI is positive. Those of you familiar with Heroku or EB will notice that there are a couple of extra steps here but the lack of a profile is a nice touch with the App Service using the package.json to determine how to run the application in production.
 
 
 
