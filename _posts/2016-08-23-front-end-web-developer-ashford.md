@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Location: Ashford, Kent
+
 ### Salary: DOE
 
 ### Company Introduction
@@ -47,39 +48,11 @@ Experience working on large Javascript applications
 Familiarity with infrastructure-as-a-service platforms (AWS, Azure)
 Experience using automation testing
 
-### In return, you'll get...
+### What we give you
 * R&D time every fortnight
 * A fun and supportive working environment
 * Your own Macbook Pro
 * Flexible working hours
 
-
-
-
-
-
-
-
-
-
-### We're looking for
-* Significant software engineering experience
-* Knowledge of one mainstream web development framework:
-	- C# (ASP.NET MVC, Entity Framework, Web API)
-	- Java (Spring MVC)
-	- Python (Django / Flask)
-	- Ruby (Rails)
-* Familiarity with SQL and at least one mainstream database management system:
-	- MySQL
-	- MS SQL
-	- Postgres
-* Experience working on large Javascript applications
-* Experience building and securing APIs and web services
-* Familiarity with infrastructure-as-a-service platforms (AWS, Azure)
-* Familiarity with an agile development process and modern software engineering (testing, automation, devops)
-* Ability to write HTML and CSS
-
-
-
 ### Applying...
-Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io" target="_blank">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.
+Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io" target="_blank">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal.
