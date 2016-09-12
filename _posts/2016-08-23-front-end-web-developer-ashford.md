@@ -16,18 +16,19 @@ redirect_from:
 
 ### Company Introduction
 
-We're looking for an experienced web developer to help in our rapid growth. You'll not only be given great opportunities to learn new technologies, but you'll be influencing the shape of client work and the technical strategy of the agency going forward.
+Space Between is an agency founded by Luke, Marcus and John in the centre of Ashford in Kent.  
+We're looking for an experienced web developer to help in our rapid growth. You'll not only be given great opportunities to learn new technologies, but you'll be influencing the shape of client work and the technical strategy of the agency going forward.  
+If you're not given the freedom to explore technology in your current job, or you're looking for a developer-focussed environment with a flat, friendly  team, you should apply...
 
 ### Job Description
 
-We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
+We are looking for an experienced Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
 
 ### Responsibilities
 Develop new user-facing features  
 Build reusable code and libraries for future use  
 Ensure the technical feasibility of UI/UX designs  
 Optimize application for maximum speed and scalability  
-Assure that all user input is validated before submitting to back-end  
 Collaborate with other team members and stakeholders  
 {{Add other responsibilities that are relevant}}
 
@@ -37,7 +38,7 @@ Strong understanding of HTML, CSS and Javascript is a must
 Understanding of CSS pre-processors, such as SASS or LESS  
 Proficient understanding of client-side scripting and JavaScript frameworks  
 Proficient understanding of cross-browser compatibility issues and ways to work around them  
-Proficient understanding of code versioning tools, Git is preferable  
+Proficient understanding of code version control tools, Git is preferable  
 Good understanding of SEO principles and ensuring that application will adhere to them  
 
 ### Nice to have
