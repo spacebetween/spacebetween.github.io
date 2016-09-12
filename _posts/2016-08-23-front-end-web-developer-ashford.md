@@ -34,7 +34,7 @@ Collaborate with other team members and stakeholders
 ### Skills And Qualifications
 Experience cross browser testing their own work  
 Strong understanding of HTML, CSS and Javascript is a must  
-Understanding of server-side CSS pre-processing platforms, such as SASS or LESS  
+Understanding of CSS pre-processors, such as SASS or LESS  
 Proficient understanding of client-side scripting and JavaScript frameworks  
 Proficient understanding of cross-browser compatibility issues and ways to work around them  
 Proficient understanding of code versioning tools, Git is preferable  
