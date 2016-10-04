@@ -2,12 +2,12 @@
 title: Space Between design and development house
 name: Space Between
 logo: /assets/images/spaceBetween.jpg
-email: hello@spacebetween.io
+email: hello@spacebetween.co.uk
 phone: 01233 800991
 description: >
   Space Between's a hugely experienced web design & development house in Ashford, Kent. We design, build & grow digital platforms, delivering measurable results.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://spacebetween.io" # the base hostname & protocol for your site
+url: "http://spacebetween.co.uk" # the base hostname & protocol for your site
 themeColor: "#29abe2"
 
 # Social
