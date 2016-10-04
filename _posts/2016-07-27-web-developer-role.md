@@ -42,4 +42,4 @@ We're looking for an experienced web developer to help in our rapid growth. You'
 * Flexible working hours
 
 ### Applying...
-Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io" target="_blank">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.
+Please apply with a cover letter and CV to <a href="mailto:{{site.email}}" target="_blank">{{site.email}}</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal. Please let us know whether a freelance or full-time position is preferable, too.

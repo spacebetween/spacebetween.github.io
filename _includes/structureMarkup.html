@@ -1,5 +1,5 @@
 <div style="display:none" itemscope itemtype="http://schema.org/Organization">
-	<a itemprop="url" href="http://spacebetween.io/">
+	<a itemprop="url" href="{{site.url}}/">
 		<div itemprop="name"><strong>Space Between</strong></div>
 	</a>
 	<div itemprop="description">
@@ -20,7 +20,7 @@
 		"@context": "http://schema.org",
 		"@type": "Organization",
 		"name": "Space Between",
-		"url": "http://spacebetween.io/",
+		"url": "{{site.url}}/",
 		"sameAs": [
 			"https://www.facebook.com/teamSpaceBetween/",
 			"https://twitter.com/Space__Between",
@@ -32,13 +32,13 @@
 	{ 
 		"@context": "http://schema.org",
 		"@type": "Organization",
-		"url": "http://spacebetween.io/",
+		"url": "{{site.url}}/",
 		"contactPoint": [
 			{ 
 				"@type": "ContactPoint",
 				"telephone": "+441233 800991",
 				"contactType": "customer service",
-				"email": "hello@spacebetween.io"
+				"email": "{{site.email}}"
 			}
 		]
 	}
@@ -47,7 +47,7 @@
 	{
 		"@context": "http://schema.org",
 		"@type": "Organization",
-		"url": "http://spacebetween.io/",
-		"logo": "http://spacebetween.io/assets/images/spaceBetween.png"
+		"url": "{{site.url}}/",
+		"logo": "{{site.url}}/assets/images/spaceBetween.png"
 	}
 </script>
