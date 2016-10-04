@@ -10,7 +10,7 @@ banner:         "/assets/images/blog/radcatbem.jpg"
 
 Hello, Maggy here! I’m going to be updating the SB website with journal posts about all the new technologies I’m learning (if I can keep up) and the first post is going to be about BEM syntax. 
 
-BEM - which stands for block, element, modifier - is a front-end naming methodology that the guys at Yandex thought up. I had never heard of BEM syntax before I had started working here at Space Between, and when I first started to look into it, overwhelmed was an understatement! So I dedicated my [investment time](/space/between/2016/04/20/Investment-time.html) (which is a beautiful thing) to it on Friday - and now it makes complete sense and I can’t wait to start using it in future projects. I’m writing this blog post to a) give myself a better understanding and b) hopefully help someone else trying to get their head around it!
+BEM - which stands for block, element, modifier - is a front-end naming methodology that the guys at Yandex thought up. I had never heard of BEM syntax before I had started working here at Space Between, and when I first started to look into it, overwhelmed was an understatement! So I dedicated my [investment time](http://spacebetween.io/space/between/2016/04/20/Investment-time.html) (which is a beautiful thing) to it on Friday - and now it makes complete sense and I can’t wait to start using it in future projects. I’m writing this blog post to a) give myself a better understanding and b) hopefully help someone else trying to get their head around it!
 
 ### So what exactly is BEM?
 
