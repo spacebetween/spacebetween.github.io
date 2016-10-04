@@ -56,4 +56,4 @@ We are looking for an experienced Front-End Web Developer who is motivated to co
 * Flexible working hours
 
 ### Applying...
-Please apply with a cover letter and CV to <a href="mailto:{{site.email}}" target="_blank">{{site.email}}</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal.
+Please apply with a cover letter and CV to <a href="mailto:hello@spacebetween.io" target="_blank">hello@spacebetween.io</a>, but what we would really like to see is some code you've written. A GitHub or Bitbucket URL is ideal.
