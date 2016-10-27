@@ -20,13 +20,13 @@ I've chosen this because it was one of the tasks I thought was going to be very 
 Umbraco CMS is open-source, free to use and also comes with a great community of developers. Here at Space Between we are big fans - so much that myself and Marcus did an Umbraco course and are now Certified Umbraco Developers!
 
 
-For those who haven't used Umbraco before, you can get your installation here.
+For those who haven't used Umbraco before, you can get your installation [here](https://our.umbraco.org/documentation/Getting-Started/Setup/Install/).
 
 
 ###Step 2: Creating DocTypes
 
 
-I'm going to be showing the multisite we made for HRGO Recruitment in this example. You will want to start with creating some templates for your sites. I personally have used the same templates for each different site to save a huge library of unique templates. I prefer having reusable templates and this is very easy with the use of the Umbraco Grid and special grid editors. I won't go into this too much, as there are many resources on the web for this.
+I'm going to be showing the multisite we made for [HRGO Recruitment](http://www.hrgo.co.uk/) in this example. You will want to start with creating some templates for your sites. I personally have used the same templates for each different site to save a huge library of unique templates. I prefer having reusable templates and this is very easy with the use of the Umbraco Grid and special grid editors. I won't go into this too much, as there are many resources on the web for this.
 
 
 You will want a 'Homepage' document type, as well as a 'Website Settings'. These are a must - the homepage will be the start node, and in the website settings, we will set each websites unique stylesheet and settings. This isn't necessary but is good to know if each site is going to be different style wise.
