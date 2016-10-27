@@ -8,25 +8,19 @@ categories:     space between
 banner:         "/assets/images/blog/tutoring.jpeg"
 ---
 
-Hello! Maggy here on my long overdue second blog post in my Journal of a Junior series! This is my sixth month working at Space Between, I have worked on so many projects, with so many amazing technologies it was hard to pick what to write this post on. I’ve decided to go with using one Umbraco CMS to host multiple sites!
+Hello! Maggy here on my long overdue second blog post in my Journal of a Junior series! This is my sixth month working at Space Between, I have worked on so many projects, with so many amazing technologies it was hard to pick what to write this post on. I’ve decided to go with using one [Umbraco CMS](http://umbraco.com/) instance to host multiple sites!
 
+Umbraco CMS is open-source, free to use and also comes with a great community of developers. Here at Space Between we are big fans - so much that myself and Marcus did an Umbraco course and are now Certified Umbraco Developers!
 
 I've chosen this because it was one of the tasks I thought was going to be very difficult. It involved so many things I'd never encountered before, and was a big learning curve - but very rewarding and now something that I realise can be done in a flash! This tutorial will assume you are familiar with the Umbraco CMS and being able set up different domain names in IIS for each site.
 
 
 ###Step 1: Setting up
 
-
-Umbraco CMS is open-source, free to use and also comes with a great community of developers. Here at Space Between we are big fans - so much that myself and Marcus did an Umbraco course and are now Certified Umbraco Developers!
-
-
 For those who haven't used Umbraco before, you can get your installation [here](https://our.umbraco.org/documentation/Getting-Started/Setup/Install/).
 
 
-###Step 2: Creating DocTypes
-
-
-I'm going to be showing the multisite we made for [HRGO Recruitment](http://www.hrgo.co.uk/) in this example. You will want to start with creating some templates for your sites. I personally have used the same templates for each different site to save a huge library of unique templates. I prefer having reusable templates and this is very easy with the use of the Umbraco Grid and special grid editors. I won't go into this too much, as there are many resources on the web for this.
+I'm going to be showing the multisite we made for [HRGO Recruitment](http://www.hrgo.co.uk/) in this example. You will want to start with creating some templates for your sites. I personally have used the same templates for each different site to save a huge library of unique templates. I prefer having reusable templates and this is very easy with the use of the [Umbraco Grid](https://our.umbraco.org/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout) and special [grid editors](https://our.umbraco.org/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout/grid-editors). I won't go into this too much, as there are many resources on the web for this.
 
 
 You will want a 'Homepage' document type, as well as a 'Website Settings'. These are a must - the homepage will be the start node, and in the website settings, we will set each websites unique stylesheet and settings. This isn't necessary but is good to know if each site is going to be different style wise.
