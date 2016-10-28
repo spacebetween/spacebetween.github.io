@@ -38,7 +38,7 @@ In my Website Settings, I have some text fields to enter the name or your styles
 
 [website]: /assets/images/blog/ums-website-settings.png "Website Settings"
 
-###Step 3: Allowing each site to have a unique domain
+###Step 2: Allowing each site to have a unique domain
 
 
 Once you've got Umbraco installed, you will want to go into umbracoSettings.config, and find '<requestHandler>' and set <useDomainPrefixes> to true. This allows you to have unique domains for multiple sites.
@@ -47,7 +47,7 @@ Once you've got Umbraco installed, you will want to go into umbracoSettings.conf
 
 [request]: /assets/images/blog/ums-request-handler.png "Request Handler"
 
-###Step 4: Creating content for each site
+###Step 3: Creating content for each site
 
 
 Now these have been made, we will create them in the Content tab. Remember to set up permissions to allow the Website Settings document to be a child of the Homepage, along with any other Doctypes you have made. It should look a little like the image below:
@@ -88,7 +88,7 @@ And Razor to assign the stylesheet to the template:
 </xmp>
 
 
-###Step 5: Assigning domain names
+###Step 4: Assigning domain names
 
 
 Now, we have our two websites! We just need to assign them their own domain names. To do this you will want to right click on the websites Home node, and then select 'Culture and Hostnames'. 
