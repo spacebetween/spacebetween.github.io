@@ -15,7 +15,7 @@ Umbraco CMS is open-source, free to use and also comes with a great community of
 I've chosen this because it was one of the tasks I thought was going to be very difficult. It involved so many things I'd never encountered before, and was a big learning curve - but very rewarding and now something that I realise can be done in a flash! This tutorial will assume you are familiar with the Umbraco CMS and being able set up different domain names in IIS for each site.
 
 
-###Step 1: Setting up
+### Step 1: Setting up
 
 For those who haven't used Umbraco before, you can get your installation [here](https://our.umbraco.org/documentation/Getting-Started/Setup/Install/).
 
@@ -38,7 +38,7 @@ In my Website Settings, I have some text fields to enter the name or your styles
 
 [website]: /assets/images/blog/ums-website-settings.png "Website Settings"
 
-###Step 2: Allowing each site to have a unique domain
+### Step 2: Allowing each site to have a unique domain
 
 
 Once you've got Umbraco installed, you will want to go into umbracoSettings.config, and find '<requestHandler>' and set <useDomainPrefixes> to true. This allows you to have unique domains for multiple sites.
@@ -47,7 +47,7 @@ Once you've got Umbraco installed, you will want to go into umbracoSettings.conf
 
 [request]: /assets/images/blog/ums-request-handler.png "Request Handler"
 
-###Step 3: Creating content for each site
+### Step 3: Creating content for each site
 
 
 Now these have been made, we will create them in the Content tab. Remember to set up permissions to allow the Website Settings document to be a child of the Homepage, along with any other Doctypes you have made. It should look a little like the image below:
@@ -88,7 +88,7 @@ And Razor to assign the stylesheet to the template:
 </xmp>
 
 
-###Step 4: Assigning domain names
+### Step 4: Assigning domain names
 
 
 Now, we have our two websites! We just need to assign them their own domain names. To do this you will want to right click on the websites Home node, and then select 'Culture and Hostnames'. 
