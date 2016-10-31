@@ -27,7 +27,10 @@ We decided some some properties would need to be customized datatypes to suit ou
 
 When you go to make your grid editor, you want to go into the Developer tab, then into the grid editor folder. You can then add a new grid editor item. If Leblender was installed properly, you can choose it as a Grid Editor type:
 
->> PICTURE OF GRID EDITOR PROPERTIES
+![Card Settings][cardSettings]
+
+[cardSettings]: /assets/images/blog/card-settings.png "Card Settings"
+
 
 Here is where the magic happens! Rather than having to edit JSON you can add your properties here with the UI. Select the name, datatype, and alias and description and save. This edits the grid.editors.config.js and saves your changes.
 
@@ -37,16 +40,7 @@ We have to create a view for the grid editor. For this, I have gone into Views>P
 
 Firstly, you'll have to make sure your view is inheriting the LeBlender model, so we can get all of the LeBlender editors data:
 
-@inherits UmbracoViewPage<Lecoati.LeBlender.Extension.Models.LeBlenderModel>
-
-To get your data out of the editor, you'll want to use the LeBlender Model:
-
-foreach (var item in Model.Items)
-{
-    string title = item.GetValue("title");
-
-    <h1>@title</h1>
-}
+<script src="https://gist.github.com/maggyb/674a04e0fb713eaf4bc2ff0a84bb47ac.js"></script>
 
 This will get us the title property from our editor, and display it in a header tag. Continue to build your partial view with all of your properties in Razor, and you will end up with a completed grid editor!
 
