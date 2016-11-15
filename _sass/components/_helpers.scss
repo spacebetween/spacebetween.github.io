@@ -24,6 +24,10 @@ blockquote {
 	line-height: 1;
 }
 
+.modest ~ .attention {
+	display: none;
+}
+
 @media ( min-width: $screen-medium ) {
 	.medium-skinnyText {
 		font-weight: 100;

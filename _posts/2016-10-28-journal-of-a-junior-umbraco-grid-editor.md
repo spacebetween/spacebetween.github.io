@@ -5,7 +5,7 @@ date:           2016-10-27
 author_id:      "maggy_burns"
 description:    "Hello, Maggy here! In this post i'll be talking you through how I made custom grid editors to be used with the Umbraco grid"
 categories:     space between
-banner:         "/assets/images/blog/tutoring.jpeg"
+banner:         "/assets/images/blog/grid-editor.jpg"
 ---
 
 [LeBlender](https://our.umbraco.org/projects/backoffice-extensions/leblender/) is an open source Umbraco backoffice extension made that allows us to create new grid editors in a more flexible way. It brings an easy to use UI for you to add your own grid editors into grid.editors.config.js without having to change any JSON.
