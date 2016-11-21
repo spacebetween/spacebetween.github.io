@@ -7,7 +7,7 @@ description:	"Hi I'm Danny, the new Junior Web Developer at Space Between!"
 categories: 	space between
 banner:			"/assets/images/blog/white-cliffs-of-dover.jpg"
 ---
-Hi! I'm Danny, the newest member of the Space Between!
+Hi! I'm Danny, the newest member of the Space Between team!
 
 I'm very excited to be part of such a great team. I am itching to get started on some great projects, meeting some great clients and making new friends!
 
