@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Journal of a Junior: Creating custom grid editors with LeBlender"
-date:           2016-10-27
+date:           2016-11-23
 author_id:      "maggy_burns"
 description:    "Hello, Maggy here! In this post i'll be talking you through how I made custom grid editors to be used with the Umbraco grid"
 categories:     space between
@@ -21,16 +21,13 @@ Firstly, myself and Marcus brainstormed all of the properties we would need for 
 - Colour Scheme - Custom Editor
 - Internal Link - Content picker
 - External Link - textstring
-- Link text - texstring
+- Link text - textstring
 
-We decided some some properties would need to be customized datatypes to suit our customers needs, like the colour scheme - they would only be able to choose from their brand colours.
+We decided some properties would need to be customized datatypes to suit our customers' needs, like the colour scheme - they would only be able to choose from their brand colours.
 
 When you go to make your grid editor, you want to go into the Developer tab, then into the grid editor folder. You can then add a new grid editor item. If Leblender was installed properly, you can choose it as a Grid Editor type:
 
-![Card Settings][cardSettings]
-
-[cardSettings]: /assets/images/blog/card-settings.png "Card Settings"
-
+![Card Settings](/assets/images/blog/card-settings.png)
 
 Here is where the magic happens! Rather than having to edit JSON you can add your properties here with the UI. Select the name, datatype, and alias and description and save. This edits the grid.editors.config.js and saves your changes.
 
