@@ -1,10 +1,10 @@
 ---
-layout: 		post
-title:  		"6 tips for a better page speed on your website - part 1"
-date:   		2017-03-20
-author_id:      "luke_frake"
+layout:			post
+title:			"6 tips for a better page speed on your website - part 1"
+date:			2017-03-20
+author_id:		"luke_frake"
 description:	"I’m always hunting for the next website performance technique to give you a better page speed. This is 6 of the best techniques that always work. Part 2"
-categories: 	space between
+categories:		space between
 banner:			"/assets/images/blog/fast-lines.jpg"
 ---
 
