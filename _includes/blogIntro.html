@@ -1,5 +1,6 @@
 <div class="section section-padded row">
 	<h2 class="columns small-12">We also talk about it</h2>
+	<p class="columns small-12">You can find everything from tech advice to general thoughts and all the craziness of Space Between residing on our blog.</p>
 	{% for post in site.posts limit: 2 %}
 		{% assign author = site.data.team[post.author_id][0] %}
 		{% assign header = post.title | truncatewords: 6 %}
