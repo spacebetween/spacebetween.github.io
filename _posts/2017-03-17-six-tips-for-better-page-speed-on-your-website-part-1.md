@@ -57,7 +57,7 @@ Preloading is when you download an asset before the user requires it and store i
 ### Lazy loading
 Lazy loading is the other side of this, delaying your assets on the page the user is currently looking at until they actually need them. If for instance, you’ve got a gallery on your page, you don’t need to load all of the images the moment the user lands on the page. A more optimal way of doing this would be to download nothing at first, this allows for the first render to happen. Once we’ve displayed the page we download the first couple of images, and maintain being 1 or 2 images ahead of the image in view. This means you’re not downloading images that your user might not ever see but still make your users feel everything is instant as they slide through your gallery.
 
-This is part 1 of a two part series, read part 2 <a href="/space/between/2017/03/23/six-tips-for-better-page-speed-on-your-website-part-2">here</a>.
+This is part 1 of a two part series, read part 2 <a href="/space/between/2017/03/24/six-tips-for-better-page-speed-on-your-website-part-2">here</a>.
 
 Everything I’ve said about are all web performance techniques that actually work, I’ve implemented them, I’ve seen the results and I can vouch for them.
 
