@@ -5,7 +5,7 @@ date:			2017-03-24
 author_id:		"luke_frake"
 description:	"I’m always hunting for the next website performance technique to give you a better page speed. This is 6 of the best techniques that always work. Part 2"
 categories:		space between
-banner:			"/assets/images/blog/fast-lines.jpg"
+banner:			"/assets/images/blog/night-lines.jpg"
 ---
 
 This is part 2 of a two part series, read part 1 <a href="/space/between/2017/03/17/six-tips-for-better-page-speed-on-your-website-part-1">here</a>.
